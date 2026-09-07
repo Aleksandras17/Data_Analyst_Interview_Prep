@@ -1,0 +1,2031 @@
+order_id,customer_id,order_date,product_category,unit_price,quantity,discount_pct,region,status,revenue
+100000,1351,02/02/2024,Home & Kitchen,110.11,3,15.0,South,completed,280.78
+100001,1024,10-Oct-2024,Books,13.47,5,0.0,East,completed,67.35
+100002,1159,2024-08-27,Electronics,126.91,2,5.0,East,completed,241.13
+100003,1183,06/09/2024,Apparel,48.38,1,20.0,North,refunded,38.7
+100004,1319,2024-06-07,Toys,119.52,2,10.0,West,refunded,215.14
+100005,1051,2024-11-10,Books,60.92,5,20.0,South,refunded,243.68
+100006,1173,02/01/2024,Home & Kitchen,77.62,4,10.0,West,completed,279.43
+100007,1060,12-Sep-2024,Sports,84.6,5,0.0,South,completed,423.0
+100008,1315,2024-03-14,HOME & KITCHEN,115.14,2,10.0,East,cancelled,207.25
+100009,1252,04-Feb-2024,Electronics,97.42,5,10.0,South,completed,438.39
+100010,1198,2024-07-11,Apparel,59.9,2,0.0,West,refunded,119.8
+100011,1157,2024-12-23,Books,21.21,4,0.0,North,completed,84.84
+100012,1061,09/26/2024,Toys,88.66,5,10.0,West,completed,398.97
+100013,1368,10/05/2024,Apparel,76.15,2,10.0,North,cancelled,137.07
+100014,1259,09/19/2024,Home & Kitchen,36.4,5,15.0,West,completed,154.7
+100015,1127,14-Oct-2024,Electronics,80.34,4,0.0,North,refunded,321.36
+100016,1165,2024-07-06,Home & Kitchen,70.92,4,5.0,North,completed,269.5
+100017,1290,16-Feb-2024,Electronics,126.35,4,15.0,North,cancelled,429.59
+100018,1287,03-Nov-2024,Home & Kitchen,158.61,1,20.0,East,completed,126.89
+100019,1184,13-Jun-2024,TOYS,108.88,4,20.0,South,refunded,348.42
+100020,1121,2024-07-02,Electronics,69.01,2,0.0,East,cancelled,138.02
+100021,1263,05/15/2024,Electronics,73.93,2,0.0,West,cancelled,147.86
+100022,1263,07-Mar-2024,Sports,47.54,1,10.0,North,refunded,42.79
+100023,1239,05-Dec-2024,Home & Kitchen,52.03,1,5.0,East,completed,49.43
+100024,1029,13-Oct-2024,Apparel,67.13,5,0.0,East,completed,335.65
+100025,1189,23-Aug-2024,Electronics,63.85,2,0.0,South,completed,127.7
+100026,1245,05/27/2024,Home & Kitchen,35.32,2,,West,refunded,70.64
+100027,1380,2024-10-28,Apparel,126.94,3,0.0,East,refunded,380.82
+100028,1210,2024-07-18,Toys,135.0,4,15.0,North,refunded,459.0
+100029,1137,2024-06-11,Apparel,125.09,3,0.0,East,completed,375.27
+100030,1222,13-Jun-2024,Sports,137.08,3,0.0,South,completed,411.24
+100031,1070,2024-03-24,Sports,179.53,5,0.0,North,completed,897.65
+100032,1036,02/03/2024,HOME & KITCHEN,47.99,3,20.0,West,completed,115.18
+100033,1271,21-Jul-2024,HOME & KITCHEN,175.96,4,20.0,North,refunded,563.07
+100034,1394,2024-11-20,Apparel,59.72,5,5.0,North,completed,283.67
+100035,1338,01/24/2024,Electronics,94.73,4,0.0,North,cancelled,378.92
+100036,1233,11/10/2024,Toys,30.87,1,0.0,West,completed,30.87
+100037,1016,29-Oct-2024,Sports,56.06,2,20.0,East,refunded,89.7
+100038,1395,04/11/2024,Home & Kitchen,110.29,4,5.0,West,refunded,419.1
+100039,1179,08/19/2024,Apparel,96.81,3,0.0,South,completed,
+100040,1115,01-Mar-2024,Home & Kitchen,59.17,2,15.0,North,cancelled,100.59
+100041,1356,04-Oct-2024,Sports,73.92,2,5.0,South,cancelled,140.45
+100042,1298,13-Sep-2024,Toys,53.2,1,0.0,North,cancelled,53.2
+100043,1299,09-May-2024,Electronics,110.15,2,5.0,East,completed,209.28
+100044,1111,25-Jan-2024,Apparel,130.78,4,0.0,South,completed,523.12
+100045,1396,21-Dec-2024,Electronics,48.09,1,20.0,West,completed,38.47
+100046,1181,12-Jun-2024,Apparel,70.43,5,15.0,South,completed,299.33
+100047,1212,2024-11-22,Home & Kitchen,34.57,2,0.0,South,cancelled,69.14
+100048,1300,09/05/2024,Apparel,79.22,5,15.0,West,refunded,336.68
+100049,1263,2024-10-11,Apparel,90.21,2,0.0,East,refunded,180.42
+100050,1068,10/05/2024,Home & Kitchen,82.22,5,,North,completed,390.54
+100051,1120,03/12/2024,Apparel,86.99,3,15.0,South,cancelled,221.82
+100052,1144,13-May-2024,Toys,66.94,5,0.0,South,cancelled,334.7
+100053,1379,06/19/2024,Toys,67.69,1,15.0,East,cancelled,57.54
+100054,1285,01-Jul-2024,Electronics,66.21,4,0.0,East,cancelled,264.84
+100055,1146,17-Jan-2024,Apparel,55.23,2,10.0,East,refunded,99.41
+100056,1293,19-Jul-2024,Books,58.58,2,5.0,West,completed,111.3
+100057,1295,2024-02-26,Sports,88.35,1,0.0,East,completed,88.35
+100058,1157,29-Sep-2024,Home & Kitchen,127.0,5,15.0,South,refunded,539.75
+100059,1161,2024-09-06,Sports,43.88,4,0.0,North,completed,175.52
+100060,1357,12/03/2024,Electronics,67.57,5,20.0,East,completed,270.28
+100061,1224,09/29/2024,Electronics,39.21,3,15.0,South,cancelled,99.99
+100062,1059,2024-05-14,Sports,55.72,1,0.0,South,completed,55.72
+100063,1287,20-Dec-2024,Sports,60.26,2,10.0,West,cancelled,108.47
+100064,1235,30-May-2024,Toys,76.66,3,0.0,West,completed,229.98
+100065,1203,04/29/2024,Apparel,75.67,1,10.0,South,completed,68.1
+100066,1290,2024-11-27,Books,70.13,5,5.0,East,completed,333.12
+100067,1362,2024-05-15,Apparel,85.07,5,0.0,West,completed,425.35
+100068,1132,2024-01-28,Toys,46.03,3,10.0,North,completed,124.28
+100069,1167,20-Jun-2024,Electronics,76.95,3,0.0,South,completed,230.85
+100070,1075,10/18/2024,Electronics,98.06,4,,East,cancelled,313.79
+100071,1258,2024-03-10,Toys,45.74,4,20.0,South,completed,146.37
+100072,1161,06/18/2024,Books,27.66,1,0.0,West,completed,27.66
+100073,1136,17-Feb-2024,Books,109.75,3,15.0,South,cancelled,279.86
+100074,1278,09/08/2024,Home & Kitchen,39.87,4,20.0,North,completed,127.58
+100075,1163,06/23/2024,Electronics,54.4,5,0.0,South,completed,272.0
+100076,1185,2024-04-30,Books,96.79,3,15.0,South,completed,246.81
+100077,1176,24-Mar-2024,Sports,44.57,5,20.0,West,completed,178.28
+100078,1103,2024-07-25,Home & Kitchen,106.35,3,0.0,North,refunded,319.05
+100079,1050,02-Sep-2024,Toys,50.59,2,10.0,North,cancelled,91.06
+100080,1330,2024-12-10,Books,47.54,3,15.0,North,completed,121.23
+100081,1036,2024-06-08,Home & Kitchen,39.31,4,0.0,East,completed,157.24
+100082,1129,02/28/2024,Toys,50.81,5,0.0,West,completed,254.05
+100083,1266,2024-10-31,Toys,90.96,2,0.0,East,completed,181.92
+100084,1052,2024-08-18,Sports,54.4,2,0.0,West,completed,108.8
+100085,1262,2024-09-13,Sports,109.95,4,15.0,West,completed,
+100086,1293,05-Feb-2024,Home & Kitchen,71.46,4,0.0,East,completed,285.84
+100087,1265,24-Apr-2024,Books,74.36,2,0.0,East,completed,148.72
+100088,1122,2024-10-08,Books,46.82,4,20.0,North,completed,149.82
+100089,1007,10/31/2024,Books,117.23,1,10.0,West,completed,105.51
+100090,1354,06/08/2024,Toys,98.42,2,20.0,West,completed,157.47
+100091,1130,10/21/2024,Electronics,97.18,5,10.0,West,completed,437.31
+100092,1322,11/04/2024,Apparel,65.15,3,20.0,West,completed,156.36
+100093,1079,21-May-2024,Apparel,36.83,5,0.0,South,completed,184.15
+100094,1064,11/24/2024,Books,76.19,2,20.0,North,completed,121.9
+100095,1311,04/15/2024,Sports,89.23,2,,West,completed,142.77
+100096,1375,28-Mar-2024,Sports,89.63,5,0.0,South,completed,448.15
+100097,1344,09/06/2024,Electronics,84.25,5,0.0,West,completed,421.25
+100098,1300,2024-08-21,Toys,82.68,5,0.0,East,completed,413.4
+100099,1098,2024-02-21,Apparel,50.46,2,0.0,South,completed,100.92
+100100,1365,10/31/2024,Electronics,51.68,5,15.0,South,completed,219.64
+100101,1267,2024-03-14,Books,39.51,3,10.0,East,cancelled,106.68
+100102,1068,21-Oct-2024,Home & Kitchen,110.52,5,0.0,South,refunded,
+100103,1051,01/03/2024,Electronics,155.33,5,10.0,South,completed,698.99
+100104,1348,2024-10-18,Electronics,221.36,3,20.0,North,completed,531.26
+100105,1110,10/15/2024,Apparel,78.6,2,5.0,East,completed,149.34
+100106,1306,12-Oct-2024,ELECTRONICS,82.77,5,20.0,North,cancelled,331.08
+100107,1055,31-Aug-2024,Books,66.37,3,10.0,North,cancelled,179.2
+100108,1112,21-Jun-2024,Sports,78.04,3,20.0,North,refunded,187.3
+100109,1113,15-Sep-2024,Home & Kitchen,44.48,4,20.0,East,completed,142.34
+100110,1112,04/11/2024,Electronics,65.75,5,0.0,North,completed,328.75
+100111,1269,12-Oct-2024,Apparel,47.73,1,15.0,South,completed,40.57
+100112,1365,22-Jul-2024,Electronics,61.8,5,0.0,North,refunded,309.0
+100113,1364,06/16/2024,Books,49.73,3,15.0,East,cancelled,126.81
+100114,1296,07/04/2024,Home & Kitchen,89.25,1,15.0,North,completed,75.86
+100115,1081,27-Jul-2024,Apparel,94.29,2,0.0,North,completed,188.58
+100116,1384,01/14/2024,Electronics,81.62,3,0.0,South,completed,244.86
+100117,1216,2024-02-21,Electronics,51.78,4,0.0,East,completed,207.12
+100118,1218,2024-03-30,Home & Kitchen,38.12,3,0.0,North,completed,114.36
+100119,1280,02/11/2024,Electronics,94.77,1,5.0,South,refunded,90.03
+100120,1307,2024-06-09,Toys,71.28,3,0.0,West,completed,213.84
+100121,1381,2024-09-01,Books,27.03,2,,East,refunded,54.06
+100122,1232,2024-08-27,Books,75.9,2,5.0,West,refunded,144.21
+100123,1244,06/21/2024,Home & Kitchen,83.05,4,15.0,South,completed,282.37
+100124,1298,11/08/2024,Toys,31.81,5,0.0,West,cancelled,159.05
+100125,1102,07/25/2024,Sports,89.95,1,0.0,North,completed,89.95
+100126,1123,01/29/2024,ELECTRONICS,34.37,4,0.0,East,cancelled,137.48
+100127,1250,06-Oct-2024,Electronics,49.08,3,0.0,South,completed,147.24
+100128,1025,2024-07-29,Sports,34.49,2,0.0,North,completed,68.98
+100129,1128,08/20/2024,Apparel,46.6,4,0.0,West,cancelled,186.4
+100130,1287,07/25/2024,Electronics,38.29,2,0.0,East,refunded,76.58
+100131,1390,2024-07-21,Books,110.21,4,0.0,North,completed,440.84
+100132,1207,2024-02-03,Toys,63.52,3,10.0,North,cancelled,171.5
+100133,1159,2024-07-23,Sports,57.3,1,0.0,East,completed,57.3
+100134,1176,2024-10-17,Books,114.88,4,15.0,East,refunded,390.59
+100135,1274,2024-04-21,Books,112.24,5,10.0,North,completed,505.08
+100136,1217,2024-08-08,Books,59.47,3,10.0,West,completed,160.57
+100137,1009,2024-01-12,Home & Kitchen,80.91,4,10.0,East,cancelled,291.28
+100138,1215,07-May-2024,Books,53.69,1,20.0,South,refunded,42.95
+100139,1160,08-Jun-2024,Sports,68.03,2,0.0,North,completed,136.06
+100140,1280,12/25/2024,Toys,41.76,2,20.0,South,completed,66.82
+100141,1350,2024-03-19,Books,86.22,4,0.0,South,completed,344.88
+100142,1384,11-Apr-2024,Electronics,116.91,2,0.0,North,completed,233.82
+100143,1244,2024-05-29,Apparel,107.74,4,15.0,South,completed,366.32
+100144,1145,2024-12-29,Electronics,72.8,2,20.0,North,refunded,116.48
+100145,1177,11/08/2024,Home & Kitchen,25.63,4,0.0,North,refunded,102.52
+100146,1070,01/13/2024,Apparel,52.52,2,10.0,North,completed,94.54
+100147,1374,2024-03-26,Books,67.99,3,5.0,South,completed,193.77
+100148,1338,27-Oct-2024,Books,35.8,1,0.0,South,refunded,35.8
+100149,1341,2024-01-22,Apparel,32.69,4,5.0,South,cancelled,124.22
+100150,1131,2024-11-09,Home & Kitchen,131.21,1,10.0,East,completed,118.09
+100151,1128,04/12/2024,Sports,102.14,5,10.0,East,completed,459.63
+100152,1342,12/01/2024,BOOKS,89.22,5,5.0,North,completed,423.8
+100153,1217,17-Apr-2024,Books,96.87,3,20.0,West,completed,232.49
+100154,1281,2024-06-07,Home & Kitchen,38.92,5,0.0,East,completed,194.6
+100155,1195,08/30/2024,Home & Kitchen,45.85,5,10.0,South,completed,206.32
+100156,1177,2024-02-16,Toys,78.71,1,0.0,North,completed,78.71
+100157,1252,2024-07-22,HOME & KITCHEN,81.5,4,20.0,West,completed,260.8
+100158,1325,07/03/2024,Home & Kitchen,34.74,2,0.0,East,completed,69.48
+100159,1133,13-Oct-2024,Electronics,76.2,5,20.0,South,completed,304.8
+100160,1323,2024-12-30,Apparel,68.56,5,10.0,North,completed,308.52
+100161,1097,31-Aug-2024,Apparel,106.21,5,0.0,North,refunded,531.05
+100162,1161,05/29/2024,Sports,81.68,3,15.0,South,completed,208.28
+100163,1365,05/28/2024,Home & Kitchen,137.94,1,0.0,North,completed,137.94
+100164,1381,01-Jun-2024,Toys,59.63,1,0.0,North,cancelled,59.63
+100165,1369,2024-10-24,Toys,40.24,1,0.0,South,refunded,40.24
+100166,1126,2024-04-27,Apparel,136.3,5,10.0,North,completed,613.35
+100167,1337,02-Mar-2024,Home & Kitchen,83.6,3,0.0,South,completed,250.8
+100168,1374,2024-05-02,Sports,68.75,2,5.0,West,completed,130.62
+100169,1391,09-Jan-2024,Toys,46.69,3,5.0,West,completed,133.07
+100170,1008,08-Feb-2024,Apparel,59.95,1,0.0,North,completed,59.95
+100171,1297,02-Feb-2024,Home & Kitchen,58.48,3,0.0,East,completed,175.44
+100172,1398,10/09/2024,Sports,39.35,3,0.0,West,completed,118.05
+100173,1305,09/21/2024,Apparel,21.47,4,0.0,East,completed,85.88
+100174,1093,12-Sep-2024,Apparel,57.83,1,20.0,South,completed,46.26
+100175,1305,2024-06-18,Apparel,97.98,5,0.0,South,completed,489.9
+100176,1042,2024-09-19,Home & Kitchen,121.35,1,0.0,North,refunded,121.35
+100177,1192,02/29/2024,Toys,108.05,3,10.0,South,cancelled,291.74
+100178,1250,11/25/2024,Apparel,110.85,2,,West,cancelled,188.44
+100179,1182,02-Jul-2024,Apparel,41.68,4,10.0,East,cancelled,2706.0880770572644
+100180,1279,09-Dec-2024,Sports,79.38,4,5.0,South,completed,301.64
+100181,1096,02/25/2024,APPAREL,89.53,1,20.0,North,cancelled,71.62
+100182,1242,2024-07-01,Electronics,92.09,3,20.0,West,cancelled,221.02
+100183,1257,2024-09-11,Books,68.04,3,0.0,North,cancelled,204.12
+100184,1253,30-Jun-2024,Electronics,75.03,3,0.0,East,completed,225.09
+100185,1115,06/12/2024,Sports,160.32,1,0.0,South,completed,160.32
+100186,1122,03/01/2024,Home & Kitchen,106.63,1,15.0,South,completed,90.64
+100187,1103,05/19/2024,Home & Kitchen,88.09,3,20.0,North,completed,
+100188,1184,28-Mar-2024,Electronics,95.38,2,10.0,South,cancelled,171.68
+100189,1234,2024-04-20,Books,56.58,3,10.0,East,completed,152.77
+100190,1145,2024-09-07,APPAREL,93.15,1,0.0,South,cancelled,93.15
+100191,1163,18-Aug-2024,Apparel,74.58,4,10.0,North,cancelled,268.49
+100192,1114,08/10/2024,TOYS,101.86,1,0.0,South,cancelled,101.86
+100193,1087,12-May-2024,Electronics,50.46,4,5.0,North,completed,191.75
+100194,1262,2024-12-17,Sports,98.19,5,0.0,South,completed,490.95
+100195,1326,2024-02-02,Apparel,60.34,2,0.0,West,completed,120.68
+100196,1116,05-May-2024,Sports,98.39,1,20.0,West,refunded,78.71
+100197,1344,13-Feb-2024,Electronics,79.61,1,20.0,West,refunded,63.69
+100198,1228,2024-05-04,Books,72.1,2,10.0,North,completed,129.78
+100199,1067,18-Dec-2024,Home & Kitchen,61.87,1,10.0,South,completed,55.68
+100200,1146,2024-05-14,Toys,68.88,5,,North,completed,344.4
+100201,1003,2024-11-28,Toys,57.89,5,10.0,South,refunded,260.5
+100202,1015,30-Jun-2024,Apparel,61.27,5,15.0,East,completed,260.4
+100203,1134,2024-09-13,Electronics,87.03,5,5.0,West,completed,413.39
+100204,1181,2024-06-16,Home & Kitchen,29.39,3,0.0,South,completed,88.17
+100205,1319,2024-04-07,Toys,97.79,2,0.0,North,refunded,195.58
+100206,1053,10/06/2024,Books,98.53,3,15.0,South,completed,251.25
+100207,1335,2024-12-20,Books,62.74,2,0.0,South,cancelled,125.48
+100208,1093,2024-04-06,Home & Kitchen,75.91,5,20.0,East,completed,303.64
+100209,1055,2024-10-12,Sports,44.29,3,15.0,North,refunded,112.94
+100210,1279,04/05/2024,Electronics,84.52,2,20.0,East,cancelled,135.23
+100211,1309,09/19/2024,Toys,47.0,4,5.0,South,completed,178.6
+100212,1241,2024-10-15,Apparel,13.86,2,0.0,East,completed,27.72
+100213,1046,06/13/2024,Toys,119.27,2,0.0,West,completed,238.54
+100214,1046,09/26/2024,Toys,41.89,2,5.0,North,completed,79.59
+100215,1156,04/09/2024,Books,68.2,1,0.0,West,completed,68.2
+100216,1180,01/30/2024,Apparel,77.22,1,,North,refunded,
+100217,1399,2024-02-05,Apparel,86.95,3,20.0,West,completed,208.68
+100218,1114,06/12/2024,Sports,70.98,5,20.0,South,refunded,283.92
+100219,1077,26-Nov-2024,Electronics,80.29,2,0.0,East,completed,160.58
+100220,1378,2024-02-16,Electronics,62.05,4,10.0,West,cancelled,223.38
+100221,1061,2024-06-15,Sports,32.21,2,0.0,East,completed,64.42
+100222,1010,2024-09-14,Toys,69.73,2,5.0,South,completed,132.49
+100223,1169,15-Mar-2024,Sports,92.28,1,10.0,West,completed,83.05
+100224,1160,21-Sep-2024,Toys,43.16,3,0.0,South,completed,129.48
+100225,1247,21-Apr-2024,Home & Kitchen,77.58,4,15.0,East,completed,263.77
+100226,1351,2024-10-22,APPAREL,150.21,2,0.0,East,completed,300.42
+100227,1373,07/30/2024,Sports,67.65,3,10.0,South,cancelled,182.66
+100228,1115,2024-07-19,Apparel,69.24,3,20.0,North,refunded,166.18
+100229,1392,05-Mar-2024,Electronics,30.84,2,15.0,South,completed,52.43
+100230,1253,06/18/2024,Electronics,40.65,4,0.0,West,refunded,162.6
+100231,1027,11/09/2024,BOOKS,47.25,3,0.0,East,completed,141.75
+100232,1375,01/08/2024,Sports,90.67,1,10.0,East,completed,81.6
+100233,1055,04-Oct-2024,Home & Kitchen,44.61,3,20.0,South,completed,107.06
+100234,1235,29-Jun-2024,HOME & KITCHEN,25.4,2,15.0,East,refunded,43.18
+100235,1316,20-Sep-2024,Electronics,83.74,4,20.0,South,completed,267.97
+100236,1099,08/30/2024,Books,49.34,2,0.0,North,completed,98.68
+100237,1108,07-Jun-2024,Electronics,31.48,5,5.0,North,cancelled,149.53
+100238,1190,22-Apr-2024,Toys,95.61,4,15.0,South,completed,325.07
+100239,1353,08/17/2024,Home & Kitchen,58.78,1,10.0,East,completed,52.9
+100240,1089,21-Feb-2024,Apparel,87.24,3,15.0,South,completed,222.46
+100241,1265,01-Aug-2024,Home & Kitchen,30.91,5,0.0,North,refunded,154.55
+100242,1181,04-Feb-2024,Toys,20.24,2,5.0,South,cancelled,38.46
+100243,1044,2024-08-25,Electronics,74.28,4,5.0,South,refunded,282.26
+100244,1284,18-Aug-2024,Apparel,39.93,4,,East,completed,127.78
+100245,1333,01/31/2024,Home & Kitchen,73.8,4,0.0,South,cancelled,295.2
+100246,1230,2024-10-04,Home & Kitchen,74.52,1,0.0,South,refunded,74.52
+100247,1070,06/01/2024,Home & Kitchen,70.26,2,0.0,North,refunded,140.52
+100248,1062,15-Oct-2024,Books,110.46,2,0.0,East,cancelled,220.92
+100249,1169,16-Jan-2024,Apparel,206.54,2,20.0,West,refunded,330.46
+100250,1202,06-Mar-2024,Apparel,83.08,5,15.0,East,completed,353.09
+100251,1220,29-Jun-2024,Apparel,150.15,1,0.0,South,completed,150.15
+100252,1097,03/09/2024,Books,29.81,3,10.0,South,completed,80.49
+100253,1200,30-Apr-2024,APPAREL,59.52,5,10.0,South,completed,267.84
+100254,1118,2024-08-29,Apparel,36.19,5,20.0,North,refunded,144.76
+100255,1274,2024-02-22,Home & Kitchen,50.94,4,0.0,North,refunded,203.76
+100256,1318,2024-09-05,Home & Kitchen,61.19,5,20.0,West,completed,244.76
+100257,1261,07-Feb-2024,Electronics,155.88,3,0.0,West,completed,467.64
+100258,1000,03/05/2024,Sports,72.09,4,15.0,West,completed,245.11
+100259,1396,03-Aug-2024,Electronics,112.3,3,0.0,East,completed,336.9
+100260,1009,10/17/2024,Home & Kitchen,57.22,1,10.0,West,completed,51.5
+100261,1399,03/03/2024,Home & Kitchen,53.97,1,0.0,South,completed,53.97
+100262,1012,19-Apr-2024,Home & Kitchen,30.25,5,15.0,South,cancelled,128.56
+100263,1206,12/04/2024,Toys,153.61,1,10.0,North,completed,138.25
+100264,1042,12/28/2024,Sports,128.86,2,0.0,North,completed,257.72
+100265,1038,2024-07-31,Books,77.94,4,20.0,East,completed,249.41
+100266,1273,06/12/2024,Apparel,62.88,3,10.0,North,refunded,169.78
+100267,1291,2024-05-06,Books,73.35,3,5.0,West,completed,209.05
+100268,1047,2024-08-12,Electronics,35.45,5,0.0,West,completed,177.25
+100269,1390,2024-08-04,Sports,87.16,4,20.0,South,completed,278.91
+100270,1128,2024-04-17,Toys,124.08,5,15.0,East,cancelled,527.34
+100271,1127,2024-01-09,Sports,126.88,4,10.0,North,completed,456.77
+100272,1118,2024-02-25,Books,30.92,5,15.0,South,completed,131.41
+100273,1184,2024-12-16,Home & Kitchen,111.84,4,10.0,North,completed,402.62
+100274,1071,02-Jun-2024,Electronics,35.57,3,0.0,North,completed,106.71
+100275,1169,2024-06-25,Toys,21.07,5,0.0,North,refunded,105.35
+100276,1083,06/19/2024,Electronics,113.73,5,0.0,West,completed,568.65
+100277,1020,2024-10-13,Toys,55.05,1,,East,completed,55.05
+100278,1147,24-Jan-2024,Toys,106.57,5,15.0,West,completed,452.92
+100279,1268,2024-01-31,Books,102.33,4,15.0,West,refunded,347.92
+100280,1305,10-Apr-2024,Apparel,96.54,5,,West,completed,482.7
+100281,1141,06/27/2024,Books,72.94,4,10.0,West,completed,262.58
+100282,1129,02-Sep-2024,Home & Kitchen,37.61,5,0.0,North,completed,188.05
+100283,1314,06/28/2024,Apparel,61.25,2,0.0,West,completed,122.5
+100284,1272,06/10/2024,Electronics,127.84,1,15.0,East,completed,108.66
+100285,1332,09-Dec-2024,Toys,107.81,1,15.0,North,refunded,91.64
+100286,1362,28-Feb-2024,Toys,62.76,2,20.0,North,completed,100.42
+100287,1328,07/28/2024,Toys,62.4,2,0.0,West,cancelled,124.8
+100288,1374,17-Jul-2024,Toys,92.69,3,20.0,West,completed,222.46
+100289,1166,22-Jun-2024,HOME & KITCHEN,75.37,1,15.0,South,refunded,64.06
+100290,1157,22-Oct-2024,Electronics,64.29,1,0.0,North,refunded,64.29
+100291,1128,07-Apr-2024,Books,89.22,3,,South,refunded,267.66
+100292,1094,2024-12-15,Apparel,87.89,4,0.0,North,cancelled,351.56
+100293,1299,05/01/2024,Electronics,51.62,1,20.0,East,refunded,41.3
+100294,1285,07/18/2024,Books,82.21,3,0.0,South,refunded,246.63
+100295,1320,09-Jul-2024,Books,85.49,4,0.0,North,refunded,341.96
+100296,1066,2024-11-07,Apparel,70.41,4,0.0,West,completed,281.64
+100297,1196,09-Jun-2024,Toys,48.98,1,0.0,West,refunded,48.98
+100298,1088,2024-04-14,ELECTRONICS,60.36,4,15.0,West,cancelled,205.22
+100299,1357,01/08/2024,Electronics,44.21,1,10.0,West,refunded,39.79
+100300,1106,13-May-2024,Home & Kitchen,83.22,2,0.0,North,refunded,166.44
+100301,1057,2024-10-29,Sports,31.01,2,0.0,West,completed,62.02
+100302,1227,04-Jan-2024,Electronics,133.75,5,0.0,West,completed,668.75
+100303,1351,23-Nov-2024,Electronics,121.47,1,20.0,West,completed,97.18
+100304,1366,2024-07-17,Toys,86.41,4,5.0,South,completed,328.36
+100305,1038,2024-02-21,Toys,104.99,5,10.0,South,completed,472.45
+100306,1130,2024-04-20,Toys,101.86,5,0.0,West,completed,509.3
+100307,1061,21-Jul-2024,Toys,75.9,2,0.0,North,completed,151.8
+100308,1123,25-Apr-2024,TOYS,65.13,1,5.0,East,cancelled,61.87
+100309,1213,02/09/2024,Sports,61.72,2,0.0,West,refunded,123.44
+100310,1112,2024-08-31,Sports,135.98,4,10.0,West,completed,
+100311,1027,2024-09-03,Books,48.13,1,20.0,East,completed,38.5
+100312,1204,2024-02-13,Apparel,48.59,4,0.0,West,refunded,194.36
+100313,1021,04/12/2024,Electronics,109.13,2,10.0,West,completed,196.43
+100314,1090,30-Mar-2024,Toys,104.53,4,20.0,West,cancelled,334.5
+100315,1000,2024-08-29,Home & Kitchen,63.37,4,20.0,North,refunded,202.78
+100316,1034,24-Sep-2024,Books,90.57,3,0.0,North,refunded,271.71
+100317,1174,2024-09-23,Apparel,95.93,4,0.0,South,completed,383.72
+100318,1340,12/09/2024,BOOKS,36.68,5,20.0,South,refunded,146.72
+100319,1309,08-Oct-2024,Electronics,124.98,2,20.0,South,cancelled,199.97
+100320,1039,04/27/2024,Sports,95.91,3,0.0,North,completed,
+100321,1013,02/09/2024,Apparel,87.13,4,5.0,East,completed,331.09
+100322,1135,08/12/2024,APPAREL,96.25,5,10.0,North,completed,433.12
+100323,1260,12/01/2024,Home & Kitchen,82.44,3,10.0,West,completed,222.59
+100324,1298,2024-12-22,Books,68.55,2,15.0,East,refunded,116.54
+100325,1329,2024-03-25,Apparel,24.75,5,0.0,West,completed,123.75
+100326,1136,27-Mar-2024,Books,76.2,5,20.0,North,cancelled,304.8
+100327,1067,14-Jan-2024,Apparel,34.99,3,0.0,South,completed,104.97
+100328,1010,21-Feb-2024,Electronics,159.91,1,0.0,West,completed,159.91
+100329,1058,2024-07-22,Books,68.02,2,20.0,South,completed,108.83
+100330,1026,2024-07-19,Home & Kitchen,158.67,3,0.0,East,completed,476.01
+100331,1344,2024-05-15,Home & Kitchen,76.79,4,20.0,North,completed,245.73
+100332,1107,2024-04-23,Books,53.73,4,0.0,West,refunded,3875.990999807712
+100333,1329,10/30/2024,Books,123.36,5,0.0,South,completed,616.8
+100334,1221,2024-06-17,Books,85.55,1,0.0,West,completed,85.55
+100335,1215,22-Oct-2024,Apparel,185.83,3,,South,completed,445.99
+100336,1181,2024-12-18,Toys,53.08,4,0.0,North,completed,212.32
+100337,1327,04/26/2024,Home & Kitchen,125.68,5,0.0,East,refunded,628.4
+100338,1017,2024-03-15,Toys,128.68,1,5.0,South,cancelled,122.25
+100339,1037,12/14/2024,SPORTS,99.5,5,0.0,South,completed,
+100340,1169,2024-08-20,Electronics,129.16,1,15.0,West,cancelled,109.79
+100341,1157,04/16/2024,Apparel,68.75,1,0.0,South,completed,68.75
+100342,1218,15-Aug-2024,Apparel,48.01,5,5.0,South,cancelled,228.05
+100343,1295,07-Jul-2024,Home & Kitchen,56.03,4,0.0,East,completed,224.12
+100344,1235,2024-11-27,Apparel,74.39,5,0.0,North,refunded,371.95
+100345,1102,04/03/2024,Sports,101.8,4,0.0,West,cancelled,
+100346,1130,28-Dec-2024,Electronics,49.64,4,5.0,North,completed,188.63
+100347,1300,12/08/2024,Electronics,61.74,3,0.0,North,refunded,185.22
+100348,1080,03/07/2024,TOYS,51.57,3,0.0,North,completed,154.71
+100349,1201,03/01/2024,Apparel,109.92,3,0.0,South,cancelled,329.76
+100350,1215,14-Jul-2024,Sports,158.09,2,15.0,East,refunded,268.75
+100351,1300,01/17/2024,Sports,44.08,5,15.0,East,cancelled,187.34
+100352,1285,19-Apr-2024,Sports,92.49,2,10.0,West,cancelled,166.48
+100353,1185,08-Jun-2024,Apparel,116.1,4,15.0,West,completed,394.74
+100354,1123,12/20/2024,Apparel,65.96,4,0.0,South,completed,263.84
+100355,1147,2024-12-29,Toys,35.95,3,10.0,West,refunded,97.07
+100356,1164,2024-02-25,Books,122.85,4,15.0,North,completed,417.69
+100357,1087,11/22/2024,Home & Kitchen,34.81,1,0.0,North,completed,34.81
+100358,1250,03-Feb-2024,Toys,138.99,2,5.0,South,completed,264.08
+100359,1083,09/30/2024,Books,51.05,3,15.0,East,cancelled,130.18
+100360,1259,2024-11-05,Electronics,32.21,2,10.0,North,completed,57.98
+100361,1300,22-Nov-2024,Toys,58.02,5,0.0,West,completed,290.1
+100362,1384,2024-03-22,Apparel,71.69,5,10.0,South,completed,322.6
+100363,1047,11/23/2024,Books,78.65,4,15.0,South,completed,267.41
+100364,1303,2024-02-12,Sports,95.98,2,0.0,East,refunded,191.96
+100365,1034,2024-07-08,Books,81.89,1,5.0,South,cancelled,77.8
+100366,1134,20-Jun-2024,Electronics,152.22,4,5.0,South,completed,578.44
+100367,1070,25-Apr-2024,Electronics,70.14,5,0.0,West,cancelled,350.7
+100368,1064,2024-01-09,Books,83.87,3,0.0,South,completed,251.61
+100369,1070,2024-10-09,Sports,80.7,5,0.0,North,cancelled,403.5
+100370,1017,05/02/2024,SPORTS,30.23,5,15.0,East,completed,128.48
+100371,1329,30-Aug-2024,Home & Kitchen,40.05,3,15.0,East,completed,102.13
+100372,1024,05/30/2024,Home & Kitchen,74.53,2,0.0,North,completed,149.06
+100373,1159,16-May-2024,Toys,88.49,1,20.0,West,completed,70.79
+100374,1279,11/20/2024,Home & Kitchen,24.2,4,20.0,South,cancelled,77.44
+100375,1396,02/04/2024,Sports,155.4,3,10.0,North,completed,419.58
+100376,1341,2024-09-26,Home & Kitchen,91.72,1,10.0,North,refunded,82.55
+100377,1054,30-Sep-2024,Home & Kitchen,72.61,1,20.0,East,completed,
+100378,1395,19-May-2024,Electronics,89.82,5,10.0,North,completed,404.19
+100379,1261,2024-04-06,Books,56.46,2,20.0,South,completed,90.34
+100380,1071,02-Jan-2024,Books,79.04,2,20.0,East,completed,
+100381,1179,08-Dec-2024,Electronics,84.79,4,0.0,West,completed,339.16
+100382,1367,12/12/2024,Apparel,123.5,2,10.0,South,completed,222.3
+100383,1157,29-Mar-2024,Sports,67.26,5,15.0,West,refunded,285.86
+100384,1073,01/12/2024,Apparel,35.3,4,15.0,South,completed,120.02
+100385,1350,2024-02-14,Toys,47.4,2,0.0,West,completed,94.8
+100386,1381,25-Jan-2024,Home & Kitchen,64.77,2,20.0,South,refunded,103.63
+100387,1390,2024-10-31,Electronics,37.3,5,5.0,North,refunded,177.18
+100388,1382,22-Nov-2024,Apparel,44.9,3,0.0,East,completed,134.7
+100389,1349,2024-02-26,Sports,47.62,5,0.0,West,cancelled,238.1
+100390,1181,09/30/2024,Home & Kitchen,62.74,2,0.0,West,cancelled,125.48
+100391,1076,06-Mar-2024,Toys,91.18,1,20.0,West,refunded,72.94
+100392,1246,05/14/2024,Electronics,61.37,5,15.0,North,completed,260.82
+100393,1088,07-Aug-2024,Electronics,93.96,2,15.0,East,completed,159.73
+100394,1189,2024-09-20,Sports,72.64,5,20.0,East,completed,290.56
+100395,1262,2024-11-16,Sports,45.65,4,0.0,East,completed,182.6
+100396,1378,2024-01-17,Home & Kitchen,85.43,2,10.0,North,completed,153.77
+100397,1115,2024-03-12,Home & Kitchen,79.5,4,0.0,North,completed,318.0
+100398,1100,2024-04-12,ELECTRONICS,95.08,1,15.0,East,completed,80.82
+100399,1293,04/23/2024,Sports,103.87,2,0.0,West,refunded,207.74
+100400,1002,2024-12-31,Apparel,125.25,2,,North,completed,212.92
+100401,1226,11-Oct-2024,Electronics,92.56,4,15.0,North,completed,314.7
+100402,1298,2024-04-27,Apparel,78.31,3,15.0,South,completed,199.69
+100403,1220,21-Dec-2024,Books,95.27,4,20.0,South,completed,304.86
+100404,1153,01-Jul-2024,Home & Kitchen,58.54,3,15.0,West,cancelled,149.28
+100405,1331,02-Jul-2024,Books,56.51,4,0.0,West,cancelled,226.04
+100406,1148,07-Jun-2024,Home & Kitchen,132.92,1,5.0,East,refunded,126.27
+100407,1284,22-Feb-2024,Home & Kitchen,55.73,4,5.0,West,refunded,211.77
+100408,1185,07-Dec-2024,Home & Kitchen,48.21,1,0.0,North,completed,48.21
+100409,1010,01/06/2024,Home & Kitchen,92.53,1,10.0,West,cancelled,83.28
+100410,1212,03/04/2024,Electronics,58.78,4,5.0,South,refunded,223.36
+100411,1019,03/25/2024,Sports,103.4,1,0.0,South,completed,103.4
+100412,1372,04/12/2024,Apparel,121.11,4,0.0,North,refunded,484.44
+100413,1240,02/18/2024,Toys,51.46,1,5.0,North,cancelled,48.89
+100414,1148,2024-01-07,Apparel,97.54,1,10.0,North,refunded,87.79
+100415,1194,05-Sep-2024,Apparel,55.11,5,0.0,South,completed,275.55
+100416,1247,20-Dec-2024,Apparel,65.41,1,10.0,North,completed,58.87
+100417,1104,14-Feb-2024,Electronics,83.67,5,0.0,North,completed,418.35
+100418,1115,2024-04-18,Toys,56.57,2,0.0,East,completed,113.14
+100419,1167,04-Jul-2024,Electronics,80.29,4,0.0,West,cancelled,321.16
+100420,1103,12/05/2024,Toys,67.91,5,0.0,North,completed,339.55
+100421,1303,2024-09-11,Books,104.44,1,20.0,East,cancelled,83.55
+100422,1041,07-Oct-2024,Toys,104.56,2,0.0,West,completed,209.12
+100423,1330,31-Jul-2024,Apparel,56.7,3,0.0,South,completed,170.1
+100424,1139,01-Jun-2024,HOME & KITCHEN,84.52,5,15.0,North,completed,359.21
+100425,1224,03/14/2024,Books,111.61,1,0.0,North,completed,111.61
+100426,1063,2024-11-12,Home & Kitchen,44.54,1,20.0,West,completed,35.63
+100427,1154,2024-10-21,Apparel,67.72,2,15.0,South,completed,115.12
+100428,1301,10-Jan-2024,TOYS,82.87,2,20.0,North,completed,132.59
+100429,1108,18-Sep-2024,Books,43.62,2,20.0,West,refunded,69.79
+100430,1052,2024-01-31,Books,59.86,1,0.0,West,completed,
+100431,1208,27-Sep-2024,Electronics,145.04,5,5.0,East,cancelled,688.94
+100432,1064,2024-10-29,Books,55.66,4,15.0,North,cancelled,189.24
+100433,1125,17-Feb-2024,Electronics,58.54,1,0.0,North,completed,58.54
+100434,1180,2024-06-07,SPORTS,32.22,3,5.0,North,cancelled,91.83
+100435,1225,15-Feb-2024,Books,92.08,4,10.0,North,completed,331.49
+100436,1255,2024-07-26,Sports,41.07,4,15.0,East,completed,139.64
+100437,1270,12/05/2024,Books,68.4,5,0.0,South,refunded,342.0
+100438,1337,30-Jan-2024,Apparel,48.43,4,20.0,West,completed,154.98
+100439,1026,25-May-2024,Home & Kitchen,80.22,4,10.0,North,refunded,288.79
+100440,1144,12/22/2024,Home & Kitchen,14.74,1,0.0,East,cancelled,14.74
+100441,1000,20-Apr-2024,Apparel,75.28,1,0.0,West,completed,75.28
+100442,1003,2024-02-18,Toys,83.9,4,20.0,North,completed,
+100443,1084,06/27/2024,Apparel,60.58,5,0.0,East,completed,302.9
+100444,1239,05-Jul-2024,Toys,62.34,2,0.0,East,cancelled,124.68
+100445,1357,2024-08-30,APPAREL,57.14,4,0.0,North,cancelled,228.56
+100446,1309,04/24/2024,Home & Kitchen,67.98,2,20.0,South,cancelled,108.77
+100447,1258,12/15/2024,Home & Kitchen,133.71,3,10.0,West,completed,361.02
+100448,1311,07/09/2024,Sports,105.89,4,0.0,West,completed,7638.724864500999
+100449,1068,14-Apr-2024,Books,67.95,4,0.0,South,completed,271.8
+100450,1335,12/17/2024,Books,59.87,1,20.0,North,completed,47.9
+100451,1356,04-Dec-2024,Home & Kitchen,101.49,5,0.0,North,refunded,507.45
+100452,1038,07/01/2024,Apparel,77.9,5,10.0,West,cancelled,350.55
+100453,1187,10-Jan-2024,Toys,43.1,3,5.0,East,completed,122.84
+100454,1332,08/06/2024,Sports,64.39,2,15.0,South,completed,109.46
+100455,1190,22-Jul-2024,Electronics,127.37,3,15.0,North,cancelled,324.79
+100456,1336,02/24/2024,Sports,90.46,5,15.0,West,completed,384.45
+100457,1374,20-Aug-2024,Electronics,60.17,3,0.0,South,refunded,180.51
+100458,1189,03-Nov-2024,Electronics,34.07,1,,East,completed,32.37
+100459,1023,2024-02-08,Sports,80.04,1,10.0,West,completed,72.04
+100460,1136,2024-09-21,Electronics,72.82,5,,East,completed,364.1
+100461,1086,2024-02-21,Apparel,67.0,4,10.0,West,completed,241.2
+100462,1189,10/01/2024,Sports,101.99,4,10.0,East,completed,367.16
+100463,1234,06/02/2024,Sports,90.95,1,0.0,South,refunded,90.95
+100464,1185,2024-01-03,Apparel,34.66,1,0.0,West,completed,34.66
+100465,1078,19-Dec-2024,Electronics,73.01,2,20.0,East,completed,116.82
+100466,1120,01-Mar-2024,Toys,38.98,2,15.0,West,completed,66.27
+100467,1271,08/06/2024,Books,57.59,2,20.0,North,completed,
+100468,1010,2024-03-07,Books,37.56,3,0.0,East,completed,112.68
+100469,1085,07-Dec-2024,Toys,38.22,2,0.0,East,completed,76.44
+100470,1356,2024-09-27,Apparel,84.41,1,0.0,North,refunded,84.41
+100471,1039,2024-10-21,Books,80.71,3,0.0,South,completed,242.13
+100472,1165,07-Jun-2024,Apparel,70.57,4,0.0,West,completed,282.28
+100473,1082,20-Jun-2024,Electronics,55.29,4,0.0,East,cancelled,221.16
+100474,1041,08/20/2024,Books,36.2,2,20.0,West,completed,57.92
+100475,1169,2024-10-14,HOME & KITCHEN,57.71,2,0.0,North,refunded,115.42
+100476,1208,2024-11-05,Books,80.87,3,5.0,North,completed,230.48
+100477,1070,07-Jan-2024,Apparel,80.05,1,5.0,West,cancelled,76.05
+100478,1031,2024-08-30,Books,126.19,5,0.0,South,completed,630.95
+100479,1053,09-Feb-2024,Sports,118.17,5,20.0,West,completed,472.68
+100480,1260,04/15/2024,Apparel,71.84,1,0.0,West,completed,71.84
+100481,1344,10/30/2024,Home & Kitchen,57.43,5,20.0,South,completed,229.72
+100482,1072,01-Apr-2024,Books,49.02,1,15.0,West,completed,41.67
+100483,1128,10/18/2024,Electronics,33.46,3,0.0,West,cancelled,100.38
+100484,1137,06/18/2024,Apparel,41.05,4,15.0,North,completed,139.57
+100485,1144,03/26/2024,Apparel,145.55,2,5.0,North,completed,276.54
+100486,1097,2024-05-02,Sports,80.93,2,20.0,North,cancelled,129.49
+100487,1022,07/13/2024,Home & Kitchen,93.74,1,0.0,East,cancelled,93.74
+100488,1210,10/07/2024,Sports,62.78,4,0.0,North,refunded,251.12
+100489,1142,2024-08-09,Apparel,182.96,1,5.0,South,completed,173.81
+100490,1136,12/07/2024,Home & Kitchen,41.24,3,20.0,South,cancelled,98.98
+100491,1105,11/13/2024,Home & Kitchen,31.84,2,0.0,North,completed,63.68
+100492,1371,2024-10-02,Toys,181.49,5,15.0,South,cancelled,771.33
+100493,1244,08-Aug-2024,HOME & KITCHEN,35.34,5,20.0,East,completed,141.36
+100494,1167,16-Apr-2024,HOME & KITCHEN,62.38,5,5.0,West,completed,296.3
+100495,1082,05/31/2024,Sports,50.95,4,20.0,South,completed,163.04
+100496,1320,2024-02-13,HOME & KITCHEN,83.6,3,15.0,East,completed,213.18
+100497,1355,05/16/2024,Apparel,60.25,2,0.0,East,completed,120.5
+100498,1012,05-Dec-2024,Home & Kitchen,93.87,1,15.0,South,refunded,79.79
+100499,1371,2024-06-04,Apparel,102.91,5,10.0,East,completed,463.1
+100500,1279,11-Feb-2024,Toys,33.3,2,0.0,West,completed,66.6
+100501,1039,26-Aug-2024,Sports,48.26,3,5.0,North,completed,137.54
+100502,1301,2024-12-18,Books,97.44,1,10.0,East,completed,87.7
+100503,1042,2024-11-13,Toys,112.0,2,15.0,North,completed,190.4
+100504,1020,10-Apr-2024,Electronics,76.98,4,15.0,West,completed,261.73
+100505,1046,15-Jun-2024,Apparel,86.35,3,5.0,East,cancelled,246.1
+100506,1183,13-Jul-2024,Home & Kitchen,129.77,3,0.0,North,refunded,389.31
+100507,1247,03/31/2024,Sports,60.59,2,0.0,East,completed,121.18
+100508,1162,04/08/2024,Home & Kitchen,76.6,1,0.0,South,completed,76.6
+100509,1048,03/27/2024,Books,118.22,5,10.0,North,cancelled,531.99
+100510,1079,12/30/2024,Home & Kitchen,121.51,3,20.0,West,refunded,291.62
+100511,1340,30-Sep-2024,Sports,68.22,2,0.0,South,completed,136.44
+100512,1385,2024-11-03,Electronics,48.99,2,10.0,North,refunded,88.18
+100513,1301,2024-10-25,Books,67.88,4,10.0,East,completed,244.37
+100514,1041,2024-12-17,Books,70.84,3,0.0,South,completed,212.52
+100515,1327,08-Feb-2024,Toys,48.15,2,0.0,East,completed,96.3
+100516,1276,18-Nov-2024,Apparel,51.53,5,0.0,North,refunded,257.65
+100517,1210,2024-01-25,Electronics,121.59,5,10.0,West,cancelled,547.16
+100518,1057,2024-06-23,Toys,88.12,1,0.0,South,completed,88.12
+100519,1398,2024-08-05,Apparel,62.52,4,15.0,South,refunded,212.57
+100520,1177,2024-05-10,Books,42.46,5,0.0,West,refunded,212.3
+100521,1017,02/23/2024,Toys,51.82,3,0.0,East,cancelled,155.46
+100522,1083,03/11/2024,Sports,30.57,1,0.0,North,completed,30.57
+100523,1160,10/28/2024,Books,77.88,1,0.0,East,completed,77.88
+100524,1024,2024-04-26,Toys,50.5,4,0.0,East,completed,202.0
+100525,1129,04/23/2024,Apparel,80.63,5,15.0,South,refunded,342.68
+100526,1187,03-Dec-2024,Electronics,97.0,1,5.0,North,completed,92.15
+100527,1379,02/22/2024,Electronics,81.15,3,0.0,North,refunded,243.45
+100528,1034,30-Nov-2024,Apparel,59.04,3,0.0,West,completed,177.12
+100529,1230,03-Dec-2024,Sports,47.0,2,5.0,North,cancelled,89.3
+100530,1366,07-Aug-2024,Electronics,39.53,4,0.0,East,refunded,158.12
+100531,1322,03/01/2024,Electronics,116.38,5,10.0,West,completed,523.71
+100532,1369,2024-02-27,Toys,79.59,2,20.0,South,cancelled,127.34
+100533,1068,04/14/2024,Toys,60.58,1,0.0,North,cancelled,60.58
+100534,1320,07/30/2024,Electronics,91.37,2,5.0,East,completed,173.6
+100535,1391,26-Feb-2024,Sports,108.17,2,15.0,East,completed,183.89
+100536,1130,15-Jun-2024,Electronics,50.99,4,0.0,North,cancelled,203.96
+100537,1199,02/12/2024,Toys,78.53,3,5.0,East,cancelled,223.81
+100538,1212,07/16/2024,Books,79.24,1,0.0,North,completed,79.24
+100539,1197,08-Jan-2024,Books,127.3,2,10.0,South,completed,229.14
+100540,1115,16-Sep-2024,Sports,60.19,4,15.0,South,completed,204.65
+100541,1388,21-Jan-2024,Sports,46.21,3,0.0,West,completed,138.63
+100542,1382,03/12/2024,Books,82.38,3,0.0,West,refunded,247.14
+100543,1152,03/04/2024,Sports,94.7,2,0.0,East,completed,189.4
+100544,1322,10/31/2024,Apparel,75.69,2,0.0,East,completed,151.38
+100545,1159,01/20/2024,Toys,131.15,1,0.0,North,cancelled,131.15
+100546,1317,2024-06-06,Sports,60.11,1,10.0,North,completed,54.1
+100547,1233,2024-08-04,Books,76.52,1,20.0,West,completed,61.22
+100548,1188,07/07/2024,Sports,34.6,4,0.0,South,completed,138.4
+100549,1051,09/06/2024,Books,45.0,1,20.0,East,completed,36.0
+100550,1261,2024-10-20,Electronics,51.14,3,15.0,East,completed,130.41
+100551,1128,2024-05-24,Electronics,64.67,5,15.0,South,completed,274.85
+100552,1086,30-Oct-2024,Electronics,37.35,4,15.0,East,cancelled,126.99
+100553,1077,04/26/2024,Sports,90.81,3,0.0,East,refunded,272.43
+100554,1392,12/26/2024,Toys,49.05,1,5.0,North,completed,46.6
+100555,1041,03-Jul-2024,Home & Kitchen,168.16,3,5.0,East,completed,479.26
+100556,1319,2024-09-26,Electronics,49.86,5,10.0,North,completed,224.37
+100557,1346,16-Nov-2024,Books,73.03,2,15.0,South,refunded,124.15
+100558,1012,17-Oct-2024,Toys,68.99,5,0.0,West,refunded,344.95
+100559,1235,11/07/2024,Sports,43.21,4,10.0,West,completed,155.56
+100560,1230,07/15/2024,Apparel,64.78,2,15.0,North,completed,110.13
+100561,1143,16-Jan-2024,Apparel,64.42,1,0.0,East,refunded,64.42
+100562,1266,2024-06-29,Electronics,102.96,1,0.0,East,completed,102.96
+100563,1163,2024-03-07,Home & Kitchen,83.75,2,20.0,East,refunded,134.0
+100564,1175,21-Nov-2024,Books,90.22,2,0.0,West,cancelled,180.44
+100565,1172,2024-03-27,Apparel,101.97,4,0.0,North,refunded,407.88
+100566,1320,24-Mar-2024,Toys,90.86,3,15.0,East,completed,231.69
+100567,1253,01-Apr-2024,Toys,78.24,3,0.0,South,cancelled,234.72
+100568,1151,08/23/2024,Home & Kitchen,50.93,4,10.0,North,completed,183.35
+100569,1370,2024-07-28,Home & Kitchen,76.05,4,20.0,South,completed,243.36
+100570,1320,13-Dec-2024,Toys,46.55,4,5.0,North,cancelled,176.89
+100571,1373,01-Jun-2024,Electronics,67.0,5,5.0,East,completed,318.25
+100572,1292,04/13/2024,Apparel,63.12,2,5.0,East,refunded,119.93
+100573,1156,2024-01-19,Books,64.93,5,0.0,East,refunded,324.65
+100574,1309,01/03/2024,Toys,37.53,3,0.0,North,completed,112.59
+100575,1131,05/16/2024,Toys,14.89,1,5.0,West,completed,14.15
+100576,1108,2024-12-04,Electronics,57.95,1,,North,refunded,46.36
+100577,1180,07/10/2024,Home & Kitchen,112.38,1,20.0,South,completed,89.9
+100578,1387,2024-11-23,Home & Kitchen,72.55,5,20.0,South,cancelled,290.2
+100579,1227,07-Feb-2024,Home & Kitchen,108.8,1,0.0,East,refunded,108.8
+100580,1153,02/04/2024,Home & Kitchen,46.69,5,0.0,South,completed,233.45
+100581,1184,01-Nov-2024,Books,56.65,4,15.0,West,completed,192.61
+100582,1116,02/09/2024,Electronics,172.72,3,5.0,West,completed,492.25
+100583,1263,20-Jan-2024,Toys,48.01,5,0.0,West,completed,240.05
+100584,1140,27-May-2024,Sports,89.45,5,0.0,North,completed,447.25
+100585,1221,2024-12-04,Sports,89.39,5,0.0,West,cancelled,446.95
+100586,1147,09/09/2024,Home & Kitchen,85.11,3,0.0,North,refunded,
+100587,1128,06-Feb-2024,Home & Kitchen,89.95,2,0.0,West,completed,179.9
+100588,1388,11/02/2024,SPORTS,47.69,1,0.0,West,cancelled,47.69
+100589,1138,2024-11-04,Home & Kitchen,59.21,5,5.0,North,completed,281.25
+100590,1028,20-Oct-2024,Toys,17.24,5,0.0,North,completed,86.2
+100591,1151,2024-11-26,Electronics,129.19,3,0.0,East,completed,387.57
+100592,1212,28-Mar-2024,Electronics,89.71,1,20.0,North,completed,71.77
+100593,1037,24-Dec-2024,Toys,51.17,5,0.0,West,completed,255.85
+100594,1122,2024-04-27,Sports,46.93,2,0.0,East,completed,93.86
+100595,1066,2024-10-20,Electronics,113.24,3,10.0,East,refunded,305.75
+100596,1200,31-Jul-2024,Books,49.52,4,5.0,West,cancelled,188.18
+100597,1289,10/12/2024,Electronics,51.1,1,10.0,North,refunded,45.99
+100598,1387,17-Aug-2024,Books,42.34,1,0.0,East,refunded,42.34
+100599,1155,23-Aug-2024,TOYS,97.1,1,15.0,West,completed,82.54
+100600,1345,2024-08-13,Books,108.1,5,0.0,North,completed,540.5
+100601,1085,12-Oct-2024,Books,63.3,5,15.0,North,completed,269.02
+100602,1312,09/27/2024,Home & Kitchen,108.4,3,0.0,North,cancelled,325.2
+100603,1225,19-Feb-2024,Toys,81.96,3,0.0,South,completed,245.88
+100604,1303,2024-10-29,Home & Kitchen,41.13,3,0.0,North,completed,123.39
+100605,1302,2024-07-15,Apparel,125.05,2,0.0,North,completed,250.1
+100606,1212,04/28/2024,Home & Kitchen,42.13,3,10.0,West,completed,113.75
+100607,1102,07/07/2024,Apparel,65.37,2,5.0,South,refunded,124.2
+100608,1210,12/19/2024,Books,63.38,4,0.0,South,completed,
+100609,1330,2024-11-09,Apparel,58.38,2,5.0,South,refunded,110.92
+100610,1388,11/01/2024,Electronics,25.69,4,0.0,West,cancelled,102.76
+100611,1371,18-Jun-2024,Home & Kitchen,156.56,5,0.0,South,completed,782.8
+100612,1072,13-Oct-2024,Toys,27.52,2,15.0,South,cancelled,46.78
+100613,1238,20-May-2024,Sports,128.5,1,0.0,West,cancelled,128.5
+100614,1041,2024-09-08,SPORTS,46.18,3,10.0,North,completed,124.69
+100615,1267,22-Aug-2024,Apparel,53.38,1,0.0,South,refunded,53.38
+100616,1396,04/01/2024,HOME & KITCHEN,122.93,2,0.0,East,completed,245.86
+100617,1021,07-Apr-2024,Sports,85.84,4,0.0,East,completed,343.36
+100618,1262,23-Jan-2024,Sports,35.18,3,0.0,West,completed,105.54
+100619,1378,2024-02-21,Books,34.83,3,20.0,West,refunded,83.59
+100620,1338,07-Jun-2024,SPORTS,80.33,4,0.0,South,cancelled,321.32
+100621,1156,06/23/2024,Books,41.78,1,10.0,West,refunded,37.6
+100622,1041,01-Mar-2024,Toys,87.62,3,5.0,North,refunded,249.72
+100623,1369,06/01/2024,Electronics,91.57,1,5.0,North,completed,86.99
+100624,1368,2024-08-09,Apparel,48.5,3,10.0,West,cancelled,130.95
+100625,1231,26-Mar-2024,Apparel,54.72,2,5.0,North,completed,103.97
+100626,1391,2024-05-03,Electronics,81.48,5,0.0,South,completed,407.4
+100627,1001,14-May-2024,Home & Kitchen,47.5,2,10.0,East,refunded,85.5
+100628,1246,2024-07-03,Toys,72.6,2,0.0,South,cancelled,145.2
+100629,1015,14-May-2024,Apparel,177.45,1,5.0,West,cancelled,168.58
+100630,1374,09/26/2024,Electronics,83.21,1,0.0,South,completed,83.21
+100631,1272,2024-04-29,Home & Kitchen,58.75,2,5.0,East,completed,111.62
+100632,1365,2024-06-07,Home & Kitchen,163.71,2,0.0,North,completed,327.42
+100633,1225,2024-05-18,Home & Kitchen,100.15,4,10.0,North,completed,360.54
+100634,1033,07-Mar-2024,Electronics,42.26,5,0.0,North,refunded,211.3
+100635,1010,07-Sep-2024,Toys,46.08,5,0.0,East,refunded,230.4
+100636,1134,27-Mar-2024,Toys,29.18,5,0.0,North,completed,145.9
+100637,1297,04/18/2024,Apparel,80.83,5,5.0,East,completed,383.94
+100638,1060,10/17/2024,Sports,23.3,3,10.0,South,completed,62.91
+100639,1340,13-Dec-2024,Books,163.62,2,5.0,East,completed,310.88
+100640,1095,2024-09-02,Books,61.99,4,15.0,West,completed,210.77
+100641,1198,01-Dec-2024,Electronics,102.88,2,15.0,West,completed,174.9
+100642,1081,11/08/2024,Books,59.45,4,20.0,North,refunded,190.24
+100643,1186,06/25/2024,Electronics,80.2,5,,West,cancelled,320.8
+100644,1180,10/08/2024,Electronics,65.78,1,20.0,West,refunded,52.62
+100645,1002,30-Apr-2024,Apparel,71.67,4,15.0,East,cancelled,243.68
+100646,1227,17-Jun-2024,Toys,116.96,5,5.0,North,completed,555.56
+100647,1314,14-Jul-2024,Electronics,141.79,3,5.0,East,cancelled,404.1
+100648,1374,2024-12-17,Home & Kitchen,136.86,2,10.0,East,cancelled,246.35
+100649,1132,2024-11-06,Home & Kitchen,238.49,2,0.0,East,completed,476.98
+100650,1352,28-Jun-2024,Apparel,49.95,1,10.0,South,refunded,44.96
+100651,1351,26-Aug-2024,Books,83.68,2,10.0,East,completed,150.62
+100652,1395,2024-03-15,Home & Kitchen,50.5,4,5.0,East,cancelled,191.9
+100653,1149,21-Oct-2024,Home & Kitchen,114.83,3,15.0,South,completed,292.82
+100654,1340,2024-07-21,Electronics,43.25,2,10.0,West,completed,77.85
+100655,1226,13-Jul-2024,Home & Kitchen,117.87,3,20.0,East,completed,282.89
+100656,1023,07-Oct-2024,Electronics,76.83,5,20.0,South,completed,307.32
+100657,1108,08/19/2024,Sports,67.48,1,15.0,East,completed,57.36
+100658,1268,2024-01-27,Apparel,71.01,1,0.0,West,completed,71.01
+100659,1064,15-Apr-2024,Apparel,39.59,5,0.0,South,refunded,197.95
+100660,1173,2024-03-05,Toys,41.22,4,0.0,East,completed,164.88
+100661,1309,09/25/2024,Sports,77.45,3,10.0,North,refunded,209.12
+100662,1059,01/13/2024,Electronics,77.21,5,20.0,South,cancelled,308.84
+100663,1198,2024-03-15,Apparel,51.58,3,20.0,East,refunded,123.79
+100664,1085,08/06/2024,Home & Kitchen,61.68,3,10.0,West,completed,166.54
+100665,1214,11-Sep-2024,Toys,86.82,2,10.0,East,completed,156.28
+100666,1096,2024-07-03,Home & Kitchen,47.38,5,20.0,East,refunded,189.52
+100667,1386,11/11/2024,Electronics,27.45,4,10.0,South,completed,98.82
+100668,1030,2024-12-02,Toys,131.27,2,0.0,East,refunded,262.54
+100669,1385,02/18/2024,Apparel,79.89,4,5.0,South,completed,303.58
+100670,1316,2024-12-14,Electronics,55.94,4,0.0,North,completed,223.76
+100671,1342,2024-08-12,Toys,50.43,1,10.0,North,completed,45.39
+100672,1340,08/20/2024,Home & Kitchen,47.16,1,10.0,East,refunded,42.44
+100673,1075,2024-02-04,BOOKS,114.63,3,0.0,West,completed,343.89
+100674,1372,2024-08-15,Toys,36.36,4,0.0,South,completed,145.44
+100675,1237,22-Sep-2024,Apparel,83.58,4,0.0,West,completed,334.32
+100676,1384,31-Jul-2024,Sports,83.55,2,0.0,West,refunded,167.1
+100677,1351,2024-01-31,Sports,97.88,5,15.0,East,cancelled,415.99
+100678,1231,10-Jul-2024,Sports,58.44,3,10.0,West,cancelled,157.79
+100679,1149,12/08/2024,Electronics,126.28,2,20.0,South,completed,202.05
+100680,1046,2024-09-21,Home & Kitchen,99.17,1,20.0,South,refunded,79.34
+100681,1040,20-Feb-2024,HOME & KITCHEN,57.53,5,15.0,East,completed,244.5
+100682,1155,12/17/2024,Toys,49.32,4,,East,cancelled,197.28
+100683,1324,2024-12-16,Electronics,65.86,3,,East,completed,197.58
+100684,1202,2024-03-02,Sports,56.64,2,0.0,South,completed,113.28
+100685,1192,20-Oct-2024,Toys,45.53,1,0.0,West,refunded,45.53
+100686,1097,2024-05-28,Books,72.45,1,0.0,North,cancelled,72.45
+100687,1225,08/05/2024,Home & Kitchen,61.87,1,0.0,North,completed,61.87
+100688,1255,2024-06-11,Electronics,139.64,3,0.0,South,refunded,418.92
+100689,1392,13-Oct-2024,Toys,56.59,1,15.0,North,completed,48.1
+100690,1291,30-Dec-2024,Electronics,49.1,1,5.0,South,completed,46.64
+100691,1242,10/18/2024,Electronics,70.33,2,10.0,East,completed,126.59
+100692,1364,12/06/2024,Books,78.75,4,10.0,South,completed,283.5
+100693,1169,12/12/2024,BOOKS,81.47,3,20.0,North,completed,195.53
+100694,1373,02/02/2024,Toys,81.11,1,0.0,South,cancelled,81.11
+100695,1147,02-Apr-2024,Books,71.42,4,,East,refunded,285.68
+100696,1051,21-Sep-2024,Electronics,69.07,3,0.0,West,completed,207.21
+100697,1167,2024-08-03,Electronics,91.8,1,5.0,West,completed,87.21
+100698,1051,19-Jan-2024,Home & Kitchen,43.56,4,5.0,East,completed,165.53
+100699,1047,2024-02-04,Electronics,49.27,5,15.0,North,completed,209.4
+100700,1352,2024-07-09,Books,31.86,3,5.0,North,refunded,90.8
+100701,1317,08/13/2024,Electronics,43.91,1,0.0,South,refunded,43.91
+100702,1088,2024-03-02,SPORTS,109.62,2,5.0,North,completed,208.28
+100703,1335,03-Mar-2024,Books,90.08,3,20.0,East,completed,216.19
+100704,1027,17-Feb-2024,Toys,147.99,5,10.0,South,cancelled,665.96
+100705,1113,2024-07-25,Home & Kitchen,132.13,5,10.0,West,refunded,594.58
+100706,1282,2024-01-03,Apparel,90.42,5,0.0,South,completed,452.1
+100707,1121,07/28/2024,Sports,75.03,5,0.0,South,completed,375.15
+100708,1292,23-Jun-2024,Toys,70.95,3,0.0,East,cancelled,212.85
+100709,1349,06/19/2024,Apparel,22.54,4,0.0,North,refunded,90.16
+100710,1026,05-Sep-2024,Home & Kitchen,67.4,4,5.0,West,refunded,256.12
+100711,1009,2024-07-10,Toys,53.37,4,20.0,East,completed,170.78
+100712,1376,09/23/2024,Books,44.85,4,,East,completed,170.43
+100713,1208,2024-10-06,Apparel,84.04,1,10.0,South,completed,75.64
+100714,1202,2024-12-02,Electronics,63.73,5,15.0,West,refunded,270.85
+100715,1185,19-Oct-2024,Sports,72.92,1,15.0,West,completed,61.98
+100716,1173,2024-07-08,Books,41.71,3,10.0,North,completed,112.62
+100717,1276,2024-06-29,Books,101.06,3,15.0,East,cancelled,257.7
+100718,1231,03/27/2024,Apparel,56.47,5,0.0,West,completed,282.35
+100719,1065,07-Aug-2024,ELECTRONICS,82.05,1,0.0,South,completed,82.05
+100720,1250,02/20/2024,SPORTS,58.69,3,0.0,East,completed,176.07
+100721,1267,2024-12-06,Toys,20.37,2,15.0,West,cancelled,34.63
+100722,1045,05-Nov-2024,Books,85.55,1,0.0,South,completed,85.55
+100723,1150,02/13/2024,Electronics,65.65,2,20.0,East,cancelled,105.04
+100724,1316,14-Oct-2024,Home & Kitchen,30.74,3,0.0,East,cancelled,92.22
+100725,1247,2024-02-12,Apparel,39.26,5,0.0,North,completed,196.3
+100726,1054,20-Sep-2024,Electronics,102.38,2,15.0,North,completed,174.05
+100727,1016,2024-02-02,Books,31.51,5,15.0,East,completed,133.92
+100728,1232,27-Jun-2024,Electronics,55.78,4,10.0,North,completed,200.81
+100729,1184,08/28/2024,Sports,153.82,5,0.0,West,completed,769.1
+100730,1384,23-Sep-2024,Books,86.54,5,0.0,East,completed,432.7
+100731,1208,06/02/2024,Toys,96.11,4,0.0,East,cancelled,384.44
+100732,1372,2024-12-03,Toys,61.21,4,5.0,South,completed,232.6
+100733,1085,2024-10-10,Home & Kitchen,29.37,1,0.0,South,refunded,29.37
+100734,1178,03/17/2024,Toys,76.08,4,20.0,South,cancelled,243.46
+100735,1055,2024-09-02,Apparel,40.62,1,20.0,East,completed,32.5
+100736,1229,09/24/2024,Electronics,38.7,4,15.0,South,refunded,131.58
+100737,1075,2024-05-02,Apparel,72.16,4,0.0,South,completed,288.64
+100738,1196,09/27/2024,Apparel,42.01,4,0.0,North,refunded,168.04
+100739,1137,2024-11-24,SPORTS,68.44,4,5.0,East,cancelled,
+100740,1074,2024-10-26,Home & Kitchen,50.05,2,10.0,East,cancelled,90.09
+100741,1038,10/06/2024,APPAREL,67.37,2,10.0,East,completed,121.27
+100742,1204,08/20/2024,Apparel,54.1,3,0.0,South,completed,162.3
+100743,1378,04/09/2024,Home & Kitchen,68.22,3,0.0,North,completed,204.66
+100744,1079,10/18/2024,Toys,127.23,2,0.0,South,cancelled,254.46
+100745,1161,05/13/2024,Home & Kitchen,97.08,3,15.0,South,completed,247.55
+100746,1089,07/13/2024,Toys,64.79,3,20.0,North,completed,155.5
+100747,1323,04/25/2024,HOME & KITCHEN,118.17,2,20.0,West,completed,189.07
+100748,1165,24-Apr-2024,Books,82.58,4,10.0,South,refunded,297.29
+100749,1389,02/27/2024,Apparel,114.55,2,0.0,South,cancelled,229.1
+100750,1098,12/17/2024,Electronics,33.3,2,20.0,East,completed,53.28
+100751,1032,24-Feb-2024,Electronics,42.25,3,0.0,West,refunded,126.75
+100752,1233,02/01/2024,Toys,75.68,1,0.0,South,completed,75.68
+100753,1260,08-Dec-2024,Books,64.06,4,20.0,East,completed,204.99
+100754,1396,07/22/2024,Home & Kitchen,68.29,4,5.0,North,completed,259.5
+100755,1348,2024-06-09,Sports,88.57,5,0.0,East,completed,442.85
+100756,1353,09/26/2024,Sports,76.02,2,5.0,North,completed,144.44
+100757,1253,20-May-2024,Electronics,101.23,3,0.0,North,refunded,303.69
+100758,1143,2024-02-16,Apparel,100.0,3,0.0,East,cancelled,300.0
+100759,1171,2024-09-24,Toys,43.21,4,20.0,North,completed,138.27
+100760,1053,03/05/2024,Books,20.77,4,0.0,North,completed,83.08
+100761,1172,21-Jul-2024,Books,41.87,5,20.0,North,completed,167.48
+100762,1145,12/13/2024,Electronics,40.56,5,5.0,West,cancelled,192.66
+100763,1014,12/08/2024,HOME & KITCHEN,70.63,1,10.0,East,completed,63.57
+100764,1081,05/12/2024,Apparel,70.22,2,10.0,South,refunded,126.4
+100765,1213,10/12/2024,Electronics,62.3,4,5.0,West,refunded,236.74
+100766,1147,2024-08-12,Sports,84.0,3,0.0,South,cancelled,252.0
+100767,1397,06/24/2024,Electronics,184.37,3,20.0,West,cancelled,442.49
+100768,1191,21-Feb-2024,Electronics,61.68,1,5.0,South,refunded,58.6
+100769,1383,17-May-2024,Electronics,77.1,3,10.0,North,refunded,208.17
+100770,1264,26-Aug-2024,Home & Kitchen,68.28,4,5.0,North,completed,259.46
+100771,1016,2024-12-27,Toys,51.85,1,10.0,South,completed,46.66
+100772,1081,01/02/2024,Home & Kitchen,88.94,3,0.0,North,completed,266.82
+100773,1282,2024-09-19,Books,60.28,5,15.0,North,refunded,256.19
+100774,1218,2024-11-05,Home & Kitchen,46.72,3,0.0,South,refunded,140.16
+100775,1120,14-Dec-2024,Electronics,48.4,5,10.0,West,completed,217.8
+100776,1208,06/04/2024,Apparel,102.85,2,10.0,North,completed,185.13
+100777,1361,2024-02-13,Toys,87.96,1,5.0,North,cancelled,83.56
+100778,1155,09-Apr-2024,Electronics,54.56,4,0.0,West,completed,218.24
+100779,1018,07-Nov-2024,Electronics,83.39,2,0.0,North,completed,166.78
+100780,1124,11/17/2024,Books,68.65,1,0.0,West,cancelled,68.65
+100781,1374,21-Aug-2024,Sports,77.7,1,5.0,East,completed,73.82
+100782,1304,14-Feb-2024,Apparel,51.22,5,10.0,West,completed,230.49
+100783,1334,02/14/2024,Toys,41.18,4,5.0,East,completed,156.48
+100784,1364,24-Jun-2024,Books,60.13,2,15.0,East,refunded,102.22
+100785,1047,2024-08-03,Apparel,44.62,3,0.0,North,completed,133.86
+100786,1113,01/12/2024,Sports,43.04,2,0.0,East,refunded,86.08
+100787,1023,09/08/2024,ELECTRONICS,34.27,1,5.0,East,completed,32.56
+100788,1001,18-Jul-2024,Home & Kitchen,20.85,5,0.0,West,completed,104.25
+100789,1333,01/05/2024,Sports,55.01,5,15.0,North,completed,233.79
+100790,1374,02/05/2024,Home & Kitchen,111.4,2,15.0,North,completed,189.38
+100791,1062,2024-06-15,Books,99.13,2,0.0,North,refunded,198.26
+100792,1288,09/21/2024,Books,135.78,5,15.0,West,refunded,577.06
+100793,1213,2024-10-29,Home & Kitchen,42.15,3,0.0,North,cancelled,126.45
+100794,1027,06/06/2024,Apparel,91.51,2,0.0,West,completed,183.02
+100795,1366,04/18/2024,Home & Kitchen,64.65,2,0.0,South,completed,129.3
+100796,1348,20-Dec-2024,Sports,48.43,3,0.0,South,cancelled,145.29
+100797,1226,06/16/2024,Electronics,105.71,3,0.0,West,completed,317.13
+100798,1283,2024-04-25,Apparel,64.95,1,5.0,East,completed,61.7
+100799,1158,06/10/2024,Sports,27.42,3,15.0,East,completed,69.92
+100800,1317,2024-01-05,Sports,98.66,3,5.0,West,completed,281.18
+100801,1178,04/20/2024,Sports,80.83,2,5.0,West,completed,153.58
+100802,1395,2024-07-07,Home & Kitchen,72.46,2,0.0,East,refunded,144.92
+100803,1025,2024-12-02,Toys,38.14,3,0.0,South,completed,114.42
+100804,1068,27-Sep-2024,Toys,76.29,2,15.0,West,cancelled,129.69
+100805,1387,2024-10-12,Toys,127.39,5,15.0,East,cancelled,541.41
+100806,1115,07/18/2024,Apparel,79.83,3,0.0,West,completed,239.49
+100807,1124,10-Feb-2024,Books,31.8,3,0.0,West,cancelled,95.4
+100808,1316,05/23/2024,Apparel,82.55,2,15.0,East,completed,140.33
+100809,1075,30-Dec-2024,TOYS,80.2,5,0.0,South,completed,401.0
+100810,1205,01/17/2024,Home & Kitchen,94.85,1,10.0,West,completed,85.36
+100811,1114,17-Nov-2024,Home & Kitchen,79.2,3,15.0,West,refunded,201.96
+100812,1079,09/07/2024,Sports,43.11,1,15.0,North,cancelled,36.64
+100813,1385,2024-04-13,Sports,70.69,4,5.0,East,refunded,268.62
+100814,1079,11-Oct-2024,Toys,60.61,2,0.0,East,cancelled,121.22
+100815,1037,02-Nov-2024,Home & Kitchen,74.52,2,15.0,East,completed,126.68
+100816,1269,16-Jan-2024,Books,107.44,1,10.0,West,cancelled,96.7
+100817,1346,2024-02-08,Home & Kitchen,49.98,4,15.0,South,refunded,169.93
+100818,1050,31-Aug-2024,Sports,145.03,2,5.0,West,completed,275.56
+100819,1283,12/31/2024,Books,82.31,2,20.0,East,completed,131.7
+100820,1216,09-Jan-2024,Sports,98.91,5,15.0,North,completed,420.37
+100821,1332,31-Aug-2024,Toys,93.02,1,0.0,East,completed,93.02
+100822,1050,2024-02-19,Books,80.84,3,0.0,North,completed,242.52
+100823,1390,08/25/2024,Books,87.53,1,15.0,West,cancelled,74.4
+100824,1247,2024-08-16,Apparel,10.18,1,0.0,West,completed,10.18
+100825,1336,2024-02-03,Apparel,92.94,1,10.0,West,refunded,83.65
+100826,1144,09/06/2024,Home & Kitchen,44.74,1,0.0,East,cancelled,44.74
+100827,1377,11/24/2024,Sports,66.73,5,0.0,South,completed,333.65
+100828,1250,11/12/2024,Books,80.58,3,5.0,South,refunded,229.65
+100829,1050,11-Jan-2024,APPAREL,109.59,5,20.0,West,completed,438.36
+100830,1369,2024-03-31,Apparel,44.75,2,,North,completed,71.6
+100831,1318,2024-03-29,Electronics,55.65,4,0.0,West,cancelled,222.6
+100832,1120,14-Jun-2024,Apparel,59.17,1,0.0,South,refunded,59.17
+100833,1218,2024-02-22,Home & Kitchen,74.93,1,20.0,East,completed,59.94
+100834,1155,2024-11-08,Books,60.86,1,20.0,East,cancelled,48.69
+100835,1217,10/11/2024,Sports,87.71,5,10.0,North,cancelled,394.7
+100836,1386,2024-10-22,Electronics,27.98,4,10.0,North,refunded,100.73
+100837,1359,2024-03-13,Electronics,64.33,4,5.0,North,cancelled,244.45
+100838,1086,2024-01-06,Books,132.99,5,0.0,West,completed,664.95
+100839,1388,11/29/2024,Books,60.94,2,0.0,North,completed,121.88
+100840,1175,15-Apr-2024,Toys,82.45,4,0.0,East,completed,329.8
+100841,1281,28-Aug-2024,Electronics,102.09,3,20.0,North,refunded,245.02
+100842,1305,28-Nov-2024,Electronics,81.26,3,0.0,West,cancelled,243.78
+100843,1193,14-Jan-2024,Home & Kitchen,150.86,4,5.0,West,refunded,573.27
+100844,1182,01/03/2024,Toys,71.44,3,0.0,South,completed,214.32
+100845,1182,01/02/2024,Toys,89.66,1,0.0,North,refunded,89.66
+100846,1345,27-Feb-2024,Books,76.33,1,20.0,South,completed,61.06
+100847,1154,2024-01-19,Electronics,121.0,3,0.0,East,completed,363.0
+100848,1111,27-Oct-2024,Electronics,56.91,3,15.0,East,refunded,145.12
+100849,1144,09-Aug-2024,Books,156.37,4,15.0,East,completed,531.66
+100850,1077,12/24/2024,Books,50.56,3,15.0,East,cancelled,128.93
+100851,1156,10/20/2024,Toys,138.69,1,0.0,East,completed,138.69
+100852,1045,18-Dec-2024,Electronics,42.28,2,20.0,North,refunded,67.65
+100853,1035,28-Mar-2024,Electronics,90.95,3,10.0,North,refunded,245.57
+100854,1289,2024-04-15,Electronics,68.65,5,0.0,West,cancelled,343.25
+100855,1030,06-Nov-2024,Toys,101.15,3,10.0,East,refunded,273.11
+100856,1227,03/30/2024,Books,83.36,4,0.0,West,completed,333.44
+100857,1311,2024-01-21,Sports,98.73,4,0.0,East,refunded,394.92
+100858,1289,2024-09-01,Home & Kitchen,41.57,2,0.0,South,completed,83.14
+100859,1178,20-Oct-2024,Toys,30.55,5,5.0,East,completed,
+100860,1077,12/20/2024,Electronics,38.35,4,10.0,East,cancelled,138.06
+100861,1372,2024-12-05,Toys,37.88,5,0.0,North,completed,189.4
+100862,1334,02/14/2024,Books,41.33,4,0.0,South,completed,165.32
+100863,1244,10/09/2024,Toys,52.16,4,20.0,East,completed,166.91
+100864,1034,2024-11-05,Books,51.94,1,5.0,North,completed,49.34
+100865,1014,09/12/2024,Sports,69.39,3,20.0,North,refunded,166.54
+100866,1126,10/27/2024,Apparel,46.27,1,0.0,North,completed,46.27
+100867,1063,02-Nov-2024,Home & Kitchen,48.02,4,0.0,East,completed,192.08
+100868,1344,06/12/2024,Books,62.62,4,0.0,North,completed,250.48
+100869,1082,2024-01-15,Toys,107.31,3,5.0,South,refunded,305.83
+100870,1113,06/15/2024,Home & Kitchen,56.46,2,15.0,North,completed,95.98
+100871,1390,14-Mar-2024,Books,67.32,1,5.0,South,completed,63.95
+100872,1327,2024-02-11,Electronics,72.31,4,0.0,North,completed,289.24
+100873,1087,15-Feb-2024,Sports,43.63,4,20.0,West,completed,139.62
+100874,1153,2024-09-12,Home & Kitchen,59.01,3,10.0,South,completed,
+100875,1206,07/03/2024,Sports,49.82,4,0.0,North,cancelled,199.28
+100876,1265,07/16/2024,Apparel,102.8,4,0.0,East,completed,411.2
+100877,1374,29-Sep-2024,Apparel,99.06,3,5.0,West,completed,282.32
+100878,1348,19-Jul-2024,Toys,47.47,1,10.0,West,refunded,42.72
+100879,1390,18-Aug-2024,Toys,66.74,5,20.0,West,completed,266.96
+100880,1016,01-Feb-2024,Apparel,89.69,3,0.0,South,completed,269.07
+100881,1094,07-Nov-2024,Books,79.31,4,0.0,South,refunded,317.24
+100882,1225,2024-06-13,Apparel,83.12,5,20.0,South,completed,332.48
+100883,1019,02/26/2024,Electronics,43.76,2,5.0,South,completed,83.14
+100884,1142,24-Oct-2024,Electronics,136.41,4,0.0,West,completed,545.64
+100885,1061,2024-09-25,Home & Kitchen,51.68,1,0.0,North,cancelled,51.68
+100886,1373,01/20/2024,Toys,51.0,5,5.0,West,completed,242.25
+100887,1025,03/11/2024,Sports,36.11,1,10.0,West,cancelled,32.5
+100888,1059,06-Jan-2024,Apparel,63.87,3,0.0,West,refunded,191.61
+100889,1078,2024-04-09,Apparel,112.35,2,0.0,East,refunded,224.7
+100890,1059,2024-02-06,Books,78.95,1,15.0,West,completed,67.11
+100891,1227,2024-09-16,Sports,66.15,3,20.0,North,completed,158.76
+100892,1145,07/10/2024,Electronics,95.87,5,5.0,West,refunded,455.38
+100893,1364,12/24/2024,Electronics,111.11,1,0.0,East,completed,111.11
+100894,1104,10/01/2024,Apparel,98.96,2,0.0,West,completed,197.92
+100895,1214,2024-08-11,Apparel,26.16,1,0.0,North,cancelled,26.16
+100896,1264,2024-07-05,Books,96.23,1,0.0,West,completed,96.23
+100897,1250,01/20/2024,Sports,84.59,2,15.0,East,completed,143.8
+100898,1318,2024-01-26,Toys,46.98,3,0.0,North,refunded,140.94
+100899,1080,13-Aug-2024,Sports,84.75,4,15.0,East,cancelled,288.15
+100900,1202,2024-01-02,Apparel,112.45,4,0.0,North,cancelled,449.8
+100901,1320,16-Jan-2024,Sports,52.74,4,10.0,North,refunded,189.86
+100902,1345,03/21/2024,Sports,102.09,4,20.0,East,completed,326.69
+100903,1247,19-Nov-2024,Toys,79.73,2,15.0,West,completed,135.54
+100904,1260,16-Jun-2024,Home & Kitchen,13.4,5,15.0,North,refunded,56.95
+100905,1345,09/16/2024,Sports,68.37,1,0.0,South,completed,68.37
+100906,1249,30-May-2024,Home & Kitchen,78.32,4,10.0,South,completed,281.95
+100907,1379,2024-03-04,Toys,60.09,1,10.0,East,refunded,54.08
+100908,1051,2024-05-15,Toys,81.06,4,0.0,North,cancelled,324.24
+100909,1139,02/03/2024,Sports,65.06,1,0.0,East,completed,65.06
+100910,1044,08-Oct-2024,Books,170.67,2,20.0,South,cancelled,273.07
+100911,1036,08-Mar-2024,Sports,58.16,2,0.0,West,completed,116.32
+100912,1188,05/17/2024,Electronics,47.62,4,20.0,South,completed,152.38
+100913,1090,2024-12-24,Sports,99.8,1,20.0,South,refunded,79.84
+100914,1162,04-Aug-2024,Toys,61.59,2,0.0,North,completed,123.18
+100915,1175,06/16/2024,Electronics,66.66,2,15.0,West,completed,113.32
+100916,1248,2024-07-17,Electronics,64.08,4,10.0,West,cancelled,230.69
+100917,1378,2024-10-13,Home & Kitchen,97.35,5,0.0,South,completed,486.75
+100918,1339,03-Apr-2024,Books,41.18,4,15.0,South,completed,140.01
+100919,1151,20-Aug-2024,Sports,101.99,3,0.0,West,refunded,305.97
+100920,1130,15-Nov-2024,Books,87.68,2,0.0,South,completed,175.36
+100921,1308,2024-07-28,Books,145.23,5,20.0,North,refunded,580.92
+100922,1049,12-Jun-2024,Sports,75.59,1,15.0,North,completed,64.25
+100923,1216,2024-02-23,TOYS,42.64,1,0.0,East,completed,42.64
+100924,1169,31-Mar-2024,Home & Kitchen,75.97,2,0.0,North,completed,151.94
+100925,1073,12-Dec-2024,ELECTRONICS,80.22,2,0.0,North,cancelled,160.44
+100926,1246,07/17/2024,Apparel,116.79,3,0.0,North,completed,350.37
+100927,1128,2024-04-20,Sports,42.59,5,0.0,West,cancelled,212.95
+100928,1074,02-Jun-2024,Home & Kitchen,31.81,4,10.0,West,completed,114.52
+100929,1261,2024-07-30,Home & Kitchen,76.68,2,0.0,West,completed,153.36
+100930,1069,07/15/2024,Electronics,148.08,2,0.0,South,cancelled,296.16
+100931,1269,2024-09-13,Toys,93.4,4,0.0,South,completed,373.6
+100932,1064,04/04/2024,Books,95.82,2,20.0,South,cancelled,153.31
+100933,1173,25-Aug-2024,Toys,35.64,5,20.0,East,refunded,142.56
+100934,1323,11-Jun-2024,Apparel,71.03,3,15.0,North,refunded,181.13
+100935,1091,12/10/2024,Sports,117.78,3,0.0,East,completed,353.34
+100936,1307,2024-02-27,Books,80.65,5,5.0,North,cancelled,383.09
+100937,1288,24-Feb-2024,Sports,30.7,2,5.0,South,cancelled,58.33
+100938,1361,06/17/2024,Home & Kitchen,70.39,3,20.0,South,completed,168.94
+100939,1067,2024-07-05,Apparel,90.5,3,15.0,East,completed,230.78
+100940,1286,09-Sep-2024,Toys,9.84,2,20.0,West,completed,15.74
+100941,1374,27-May-2024,Apparel,66.93,1,,East,completed,63.58
+100942,1305,2024-11-30,Books,45.16,2,20.0,South,completed,72.26
+100943,1075,2024-06-22,Books,101.16,1,15.0,East,completed,85.99
+100944,1328,2024-02-17,Electronics,57.08,4,15.0,East,completed,194.07
+100945,1042,02/13/2024,Toys,84.1,1,10.0,North,completed,
+100946,1235,2024-12-22,Apparel,69.54,2,0.0,West,refunded,139.08
+100947,1199,02/19/2024,Sports,56.07,5,10.0,West,cancelled,252.32
+100948,1212,12-Dec-2024,Home & Kitchen,155.59,3,0.0,North,completed,466.77
+100949,1207,2024-04-11,Apparel,53.15,4,10.0,North,completed,191.34
+100950,1012,04-Feb-2024,Home & Kitchen,72.2,4,0.0,North,completed,288.8
+100951,1203,2024-04-21,Electronics,69.44,2,15.0,East,cancelled,118.05
+100952,1374,2024-08-12,Toys,75.82,4,5.0,North,completed,288.12
+100953,1174,05-Jun-2024,Electronics,150.35,2,10.0,North,completed,270.63
+100954,1110,10/14/2024,APPAREL,90.55,4,0.0,East,completed,362.2
+100955,1397,11-Aug-2024,Home & Kitchen,55.82,4,15.0,North,refunded,189.79
+100956,1039,05/26/2024,Electronics,129.24,5,15.0,North,completed,549.27
+100957,1194,08/20/2024,Apparel,97.55,5,0.0,North,cancelled,487.75
+100958,1205,21-Dec-2024,Books,56.33,1,0.0,East,completed,56.33
+100959,1191,30-May-2024,BOOKS,120.39,2,10.0,South,completed,216.7
+100960,1368,26-Feb-2024,Apparel,35.44,3,20.0,South,completed,85.06
+100961,1168,05/29/2024,Sports,40.34,2,15.0,East,completed,68.58
+100962,1389,03-Nov-2024,Books,29.64,4,5.0,North,cancelled,112.63
+100963,1026,2024-03-20,Home & Kitchen,22.91,5,0.0,East,cancelled,114.55
+100964,1293,12/13/2024,Books,116.55,2,20.0,South,completed,186.48
+100965,1237,2024-08-03,ELECTRONICS,76.25,5,20.0,East,cancelled,305.0
+100966,1096,2024-08-08,Home & Kitchen,31.09,5,20.0,East,completed,124.36
+100967,1091,2024-04-26,Apparel,68.61,5,0.0,East,completed,343.05
+100968,1287,12/02/2024,Electronics,103.5,1,5.0,North,cancelled,98.32
+100969,1255,14-Jan-2024,Toys,48.72,2,0.0,North,completed,97.44
+100970,1244,04/19/2024,Books,60.1,1,20.0,East,completed,48.08
+100971,1020,02-Jun-2024,Apparel,158.93,1,20.0,North,cancelled,127.14
+100972,1239,06/23/2024,Books,62.67,1,0.0,South,refunded,62.67
+100973,1392,06/22/2024,Toys,32.43,3,0.0,East,completed,97.29
+100974,1006,2024-02-24,Toys,54.22,1,5.0,West,refunded,51.51
+100975,1187,23-Mar-2024,Toys,29.98,2,0.0,East,refunded,59.96
+100976,1197,2024-02-04,Sports,93.89,5,5.0,West,completed,445.98
+100977,1358,2024-07-28,Electronics,45.41,5,0.0,East,completed,227.05
+100978,1113,08-May-2024,Books,44.71,5,10.0,South,cancelled,201.2
+100979,1190,07/26/2024,Sports,165.54,1,20.0,North,completed,132.43
+100980,1286,2024-08-03,Books,38.14,4,20.0,East,refunded,122.05
+100981,1024,09/13/2024,Books,34.7,4,5.0,West,cancelled,131.86
+100982,1320,07/19/2024,Home & Kitchen,41.39,1,15.0,South,cancelled,35.18
+100983,1328,2024-08-25,Apparel,104.96,5,10.0,North,completed,
+100984,1287,02-Aug-2024,Home & Kitchen,88.35,3,0.0,North,completed,265.05
+100985,1259,26-Aug-2024,Electronics,53.88,5,15.0,East,cancelled,228.99
+100986,1299,2024-08-13,Books,51.55,1,0.0,East,completed,51.55
+100987,1312,04/25/2024,Books,85.3,4,10.0,North,completed,307.08
+100988,1361,2024-03-31,Books,77.58,1,15.0,North,completed,65.94
+100989,1171,15-Oct-2024,Books,64.58,5,20.0,East,completed,258.32
+100990,1182,05/05/2024,Sports,89.74,4,20.0,South,refunded,287.17
+100991,1255,2024-07-19,Sports,40.02,1,15.0,South,completed,34.02
+100992,1077,03/13/2024,Books,45.79,2,5.0,South,completed,87.0
+100993,1342,06/06/2024,Sports,91.87,2,0.0,East,completed,183.74
+100994,1308,07/12/2024,Sports,80.47,1,5.0,East,refunded,76.45
+100995,1252,17-Aug-2024,Home & Kitchen,21.88,1,20.0,North,cancelled,17.5
+100996,1120,07/11/2024,Toys,70.84,5,0.0,North,completed,354.2
+100997,1139,05/12/2024,TOYS,162.83,5,5.0,East,refunded,773.44
+100998,1173,2024-12-18,Toys,98.64,3,10.0,East,completed,266.33
+100999,1265,07/06/2024,Apparel,54.66,5,0.0,North,refunded,273.3
+101000,1311,2024-10-22,Home & Kitchen,47.76,4,10.0,North,completed,171.94
+101001,1268,26-Sep-2024,ELECTRONICS,82.21,1,0.0,East,completed,82.21
+101002,1371,2024-07-23,Sports,116.38,4,0.0,South,completed,
+101003,1384,20-Nov-2024,Toys,27.59,1,10.0,North,completed,24.83
+101004,1281,02/16/2024,Toys,79.51,5,0.0,East,refunded,397.55
+101005,1148,03-Dec-2024,Books,59.62,2,0.0,North,completed,119.24
+101006,1239,11/07/2024,Apparel,76.24,1,5.0,North,completed,72.43
+101007,1170,2024-07-03,Toys,33.43,2,10.0,East,refunded,60.17
+101008,1251,25-Sep-2024,Toys,116.35,4,0.0,North,cancelled,465.4
+101009,1324,09-Jul-2024,Home & Kitchen,130.51,5,0.0,North,completed,
+101010,1147,2024-04-08,Books,94.57,3,0.0,West,completed,283.71
+101011,1202,2024-10-19,Electronics,142.43,1,5.0,North,completed,135.31
+101012,1018,03/31/2024,Sports,58.23,5,0.0,East,refunded,291.15
+101013,1294,25-Apr-2024,Books,78.65,4,,West,completed,314.6
+101014,1195,07/09/2024,Sports,95.21,3,5.0,West,completed,271.35
+101015,1183,2024-11-02,Books,82.71,3,15.0,West,completed,210.91
+101016,1212,20-May-2024,Electronics,61.78,5,10.0,South,completed,278.01
+101017,1086,06/29/2024,Sports,64.9,2,0.0,West,refunded,129.8
+101018,1239,01/16/2024,Toys,125.16,1,,North,completed,118.9
+101019,1298,02/12/2024,Sports,69.18,1,0.0,South,refunded,69.18
+101020,1139,2024-01-21,Books,113.37,4,0.0,North,completed,453.48
+101021,1052,2024-01-27,Apparel,67.52,5,5.0,East,cancelled,320.72
+101022,1154,11/13/2024,Toys,113.06,4,10.0,West,refunded,407.02
+101023,1079,11/04/2024,Apparel,72.63,4,5.0,West,completed,275.99
+101024,1149,2024-10-27,Books,91.64,2,20.0,West,cancelled,146.62
+101025,1250,2024-01-21,Electronics,50.63,3,10.0,North,completed,136.7
+101026,1045,29-Jan-2024,Home & Kitchen,78.58,1,0.0,West,refunded,78.58
+101027,1298,2024-04-12,Electronics,50.99,2,5.0,East,completed,96.88
+101028,1089,2024-07-25,Toys,57.55,4,10.0,South,completed,207.18
+101029,1357,05/02/2024,Home & Kitchen,59.77,5,0.0,North,cancelled,298.85
+101030,1292,27-Jun-2024,HOME & KITCHEN,64.39,5,0.0,North,completed,321.95
+101031,1109,04-Mar-2024,Books,107.19,5,20.0,West,refunded,428.76
+101032,1225,09/24/2024,Apparel,56.51,1,0.0,South,cancelled,56.51
+101033,1044,24-Apr-2024,Electronics,74.91,5,5.0,East,completed,355.82
+101034,1039,01/25/2024,Electronics,113.23,2,0.0,West,completed,226.46
+101035,1382,28-Sep-2024,Home & Kitchen,90.78,4,0.0,South,cancelled,363.12
+101036,1320,2024-11-26,Books,27.9,5,0.0,North,completed,139.5
+101037,1061,2024-01-06,Sports,32.96,5,15.0,South,completed,140.08
+101038,1113,08-Jun-2024,Books,83.41,4,20.0,North,cancelled,266.91
+101039,1079,29-Oct-2024,HOME & KITCHEN,55.17,2,10.0,North,completed,99.31
+101040,1158,15-Sep-2024,Apparel,30.64,3,15.0,West,completed,78.13
+101041,1116,11/09/2024,Electronics,53.27,4,10.0,South,completed,191.77
+101042,1131,05/31/2024,APPAREL,84.83,3,10.0,East,completed,229.04
+101043,1211,2024-05-16,Sports,59.46,3,0.0,East,completed,178.38
+101044,1075,09/16/2024,Toys,71.62,3,0.0,East,completed,214.86
+101045,1353,26-Feb-2024,Apparel,61.97,3,0.0,East,cancelled,185.91
+101046,1291,2024-03-28,Toys,49.77,1,20.0,North,completed,
+101047,1304,08/07/2024,Sports,77.88,5,5.0,East,refunded,369.93
+101048,1067,2024-09-01,Home & Kitchen,28.96,1,15.0,West,completed,24.62
+101049,1283,02/13/2024,Books,46.77,5,0.0,North,refunded,233.85
+101050,1334,05-Jul-2024,Apparel,98.48,1,0.0,North,completed,98.48
+101051,1070,13-May-2024,Electronics,33.5,3,0.0,East,cancelled,100.5
+101052,1300,07/02/2024,Books,69.98,3,0.0,West,completed,209.94
+101053,1143,16-Dec-2024,Books,57.27,3,20.0,South,refunded,137.45
+101054,1315,29-Jan-2024,Electronics,54.73,3,5.0,West,cancelled,155.98
+101055,1191,30-Dec-2024,Books,102.71,5,10.0,North,completed,462.2
+101056,1320,13-Jun-2024,Books,111.75,1,10.0,East,refunded,100.58
+101057,1058,10/09/2024,Toys,41.34,5,0.0,West,completed,206.7
+101058,1155,04-Jun-2024,Home & Kitchen,64.63,4,20.0,South,completed,206.82
+101059,1109,2024-04-23,Sports,24.94,4,0.0,East,completed,99.76
+101060,1099,09-Oct-2024,Sports,100.1,1,0.0,North,cancelled,100.1
+101061,1123,08-Sep-2024,Sports,68.31,1,15.0,East,cancelled,58.06
+101062,1152,02/22/2024,Sports,32.33,2,10.0,East,refunded,58.19
+101063,1050,2024-09-15,Sports,47.87,2,0.0,West,cancelled,95.74
+101064,1282,10/02/2024,Sports,39.53,4,20.0,North,cancelled,126.5
+101065,1220,21-May-2024,Toys,46.54,5,0.0,South,refunded,232.7
+101066,1331,2024-12-04,Sports,26.23,3,0.0,East,completed,78.69
+101067,1282,22-Aug-2024,Electronics,124.55,4,0.0,West,completed,498.2
+101068,1059,02-May-2024,Electronics,42.12,1,0.0,North,cancelled,42.12
+101069,1027,01/04/2024,Books,69.9,4,15.0,East,completed,237.66
+101070,1169,04-Sep-2024,Books,84.48,1,10.0,West,completed,76.03
+101071,1192,17-Mar-2024,Sports,111.82,4,10.0,East,cancelled,402.55
+101072,1096,10/03/2024,Home & Kitchen,71.02,2,20.0,South,completed,113.63
+101073,1312,11-Jul-2024,Toys,61.53,3,0.0,North,completed,184.59
+101074,1232,19-Jun-2024,Electronics,72.39,2,10.0,South,completed,130.3
+101075,1299,2024-02-29,Apparel,41.23,3,0.0,North,completed,123.69
+101076,1043,17-Sep-2024,Home & Kitchen,42.89,5,20.0,North,completed,171.56
+101077,1326,2024-03-01,Electronics,60.86,5,10.0,South,completed,273.87
+101078,1082,06/01/2024,Toys,21.34,2,15.0,North,completed,36.28
+101079,1179,02-Nov-2024,Sports,50.27,2,5.0,North,completed,95.51
+101080,1175,02-Dec-2024,Home & Kitchen,55.62,3,0.0,East,completed,166.86
+101081,1328,2024-12-28,Sports,152.13,4,10.0,North,refunded,547.67
+101082,1110,12/16/2024,Electronics,118.31,1,15.0,North,completed,100.56
+101083,1096,2024-07-22,Apparel,84.34,4,0.0,East,cancelled,337.36
+101084,1135,2024-03-14,Sports,101.22,5,20.0,West,completed,404.88
+101085,1144,03-Nov-2024,Apparel,42.71,5,15.0,East,refunded,181.52
+101086,1072,2024-10-20,Toys,73.28,3,0.0,North,cancelled,219.84
+101087,1070,28-Dec-2024,Home & Kitchen,95.63,2,20.0,North,completed,
+101088,1092,08/26/2024,Electronics,42.9,2,0.0,East,refunded,85.8
+101089,1186,2024-02-21,Sports,33.01,4,10.0,East,completed,118.84
+101090,1137,03-Jul-2024,Books,80.34,3,0.0,South,completed,
+101091,1156,2024-06-13,Apparel,34.93,1,0.0,West,cancelled,34.93
+101092,1287,2024-11-04,Electronics,87.83,4,10.0,West,completed,316.19
+101093,1096,2024-05-23,Books,110.96,1,10.0,East,completed,99.86
+101094,1363,30-Apr-2024,APPAREL,43.58,5,10.0,East,cancelled,196.11
+101095,1300,01/30/2024,Home & Kitchen,45.24,3,0.0,West,completed,135.72
+101096,1069,11/01/2024,Sports,109.5,2,15.0,North,completed,186.15
+101097,1125,2024-10-03,Home & Kitchen,71.19,1,0.0,East,refunded,71.19
+101098,1073,16-Jan-2024,Books,102.98,1,15.0,West,refunded,87.53
+101099,1109,07-Jun-2024,Home & Kitchen,61.91,5,0.0,North,completed,309.55
+101100,1146,2024-06-24,Sports,64.08,3,10.0,North,refunded,173.02
+101101,1052,20-Jun-2024,Sports,70.34,5,20.0,South,completed,281.36
+101102,1005,12/02/2024,Home & Kitchen,138.06,5,0.0,South,completed,690.3
+101103,1175,25-Feb-2024,Apparel,99.39,1,0.0,West,cancelled,99.39
+101104,1280,2024-04-22,Electronics,49.48,2,15.0,South,refunded,84.12
+101105,1121,07-Mar-2024,Sports,75.7,5,20.0,East,refunded,302.8
+101106,1344,2024-03-30,Toys,59.9,3,0.0,West,refunded,179.7
+101107,1147,11/27/2024,Books,54.73,3,5.0,West,completed,155.98
+101108,1360,2024-12-10,Home & Kitchen,86.73,3,0.0,East,cancelled,260.19
+101109,1094,2024-01-17,Home & Kitchen,78.89,4,5.0,West,completed,299.78
+101110,1215,2024-08-19,Sports,43.83,5,0.0,East,refunded,219.15
+101111,1305,26-Mar-2024,Toys,70.42,5,0.0,North,cancelled,352.1
+101112,1023,2024-03-11,Books,53.93,4,20.0,East,completed,172.58
+101113,1372,16-Apr-2024,Electronics,84.27,3,10.0,South,refunded,227.53
+101114,1145,03/12/2024,Home & Kitchen,52.8,2,5.0,South,completed,100.32
+101115,1199,2024-06-28,Home & Kitchen,64.26,1,0.0,East,refunded,64.26
+101116,1251,12/30/2024,Home & Kitchen,55.44,4,0.0,South,completed,221.76
+101117,1257,08/02/2024,Apparel,28.42,1,5.0,North,completed,27.0
+101118,1009,2024-09-21,Books,134.96,4,10.0,West,refunded,8762.278927817677
+101119,1346,06/29/2024,Electronics,70.07,3,0.0,East,cancelled,210.21
+101120,1249,06-Jan-2024,Toys,137.08,4,15.0,East,completed,466.07
+101121,1399,31-Jan-2024,Sports,71.52,5,0.0,West,cancelled,357.6
+101122,1188,04/08/2024,Sports,93.7,3,0.0,East,cancelled,281.1
+101123,1245,30-Mar-2024,Toys,51.05,3,5.0,East,completed,145.49
+101124,1176,03-Nov-2024,Electronics,51.66,3,0.0,West,cancelled,154.98
+101125,1355,2024-11-04,Toys,68.29,2,0.0,South,completed,136.58
+101126,1332,11/08/2024,Home & Kitchen,136.52,1,0.0,West,refunded,136.52
+101127,1363,21-Aug-2024,SPORTS,44.57,1,0.0,East,refunded,44.57
+101128,1201,2024-07-22,Toys,24.89,4,5.0,North,completed,94.58
+101129,1316,08/25/2024,Sports,108.37,5,20.0,North,cancelled,433.48
+101130,1143,28-May-2024,Home & Kitchen,96.27,1,0.0,West,cancelled,96.27
+101131,1184,2024-09-02,Apparel,56.92,2,0.0,West,refunded,113.84
+101132,1304,17-Oct-2024,Apparel,160.2,4,0.0,West,completed,640.8
+101133,1032,06-Oct-2024,Electronics,163.37,4,0.0,North,cancelled,653.48
+101134,1284,08/12/2024,Toys,27.39,4,0.0,West,completed,109.56
+101135,1006,01/22/2024,Electronics,50.48,4,0.0,West,refunded,201.92
+101136,1232,09/22/2024,Apparel,68.06,1,20.0,West,completed,54.45
+101137,1190,05/14/2024,Sports,83.24,2,0.0,South,completed,166.48
+101138,1187,09/29/2024,Electronics,77.68,3,10.0,East,cancelled,209.74
+101139,1197,07/16/2024,Books,69.95,1,10.0,South,completed,62.96
+101140,1196,11/18/2024,Apparel,41.31,2,0.0,North,completed,82.62
+101141,1162,03-May-2024,Electronics,87.91,2,0.0,East,cancelled,175.82
+101142,1180,06-Dec-2024,Sports,90.15,5,0.0,North,completed,450.75
+101143,1227,11/05/2024,Sports,104.96,2,5.0,North,completed,199.42
+101144,1305,05/01/2024,SPORTS,38.48,5,0.0,North,completed,192.4
+101145,1220,2024-06-25,Toys,63.12,4,10.0,South,completed,227.23
+101146,1257,2024-07-13,APPAREL,55.62,4,0.0,North,completed,222.48
+101147,1334,10/08/2024,Toys,38.13,5,0.0,West,refunded,190.65
+101148,1395,2024-09-09,Apparel,62.66,5,10.0,West,completed,281.97
+101149,1043,07-Nov-2024,Sports,42.33,2,20.0,West,completed,67.73
+101150,1285,2024-05-15,Electronics,35.02,3,20.0,South,completed,84.05
+101151,1090,2024-07-03,Sports,96.83,3,20.0,North,cancelled,232.39
+101152,1078,2024-06-06,Home & Kitchen,56.77,5,0.0,East,completed,283.85
+101153,1317,2024-11-28,Toys,49.32,1,0.0,East,completed,49.32
+101154,1027,04/21/2024,Toys,116.37,3,0.0,North,refunded,349.11
+101155,1339,02-Aug-2024,Books,91.36,2,0.0,West,completed,182.72
+101156,1308,13-Feb-2024,Books,23.49,2,0.0,South,cancelled,46.98
+101157,1397,2024-11-07,Electronics,83.49,4,0.0,West,completed,333.96
+101158,1267,2024-05-20,Electronics,83.31,2,0.0,North,cancelled,
+101159,1349,05/04/2024,Books,61.45,4,0.0,South,refunded,245.8
+101160,1047,2024-08-01,Apparel,60.38,5,10.0,South,completed,271.71
+101161,1355,01-Jul-2024,Electronics,30.15,4,5.0,North,refunded,114.57
+101162,1064,2024-11-06,Home & Kitchen,159.37,1,0.0,East,refunded,159.37
+101163,1125,07/13/2024,Books,62.55,1,5.0,West,completed,59.42
+101164,1051,07/08/2024,Apparel,81.46,3,15.0,East,completed,207.72
+101165,1160,02/08/2024,Electronics,64.16,3,0.0,South,completed,192.48
+101166,1299,01/09/2024,Toys,49.71,4,0.0,East,refunded,198.84
+101167,1107,25-May-2024,Home & Kitchen,100.17,3,0.0,South,completed,300.51
+101168,1328,12/31/2024,Apparel,74.65,1,0.0,South,completed,74.65
+101169,1242,12/01/2024,Electronics,62.79,5,0.0,West,refunded,313.95
+101170,1251,18-Aug-2024,Sports,81.06,5,20.0,East,completed,324.24
+101171,1375,18-Aug-2024,Apparel,66.9,4,20.0,South,cancelled,214.08
+101172,1172,23-May-2024,Books,141.29,4,0.0,South,completed,565.16
+101173,1137,2024-03-05,Apparel,98.65,5,20.0,West,refunded,394.6
+101174,1397,04-Jan-2024,Home & Kitchen,87.0,3,15.0,East,completed,221.85
+101175,1222,04-May-2024,Electronics,32.02,1,0.0,North,completed,32.02
+101176,1245,25-Apr-2024,Home & Kitchen,88.36,4,5.0,West,cancelled,335.77
+101177,1118,11-Mar-2024,Apparel,87.38,3,10.0,East,refunded,235.93
+101178,1086,04/04/2024,Electronics,42.7,4,0.0,South,completed,170.8
+101179,1067,10-Jan-2024,Apparel,31.64,4,5.0,West,completed,120.23
+101180,1089,08/10/2024,Books,96.85,3,5.0,West,cancelled,276.02
+101181,1078,05-Dec-2024,Toys,102.25,2,10.0,West,completed,184.05
+101182,1298,09/09/2024,Sports,51.79,3,0.0,South,completed,155.37
+101183,1023,13-Jun-2024,Books,50.69,4,10.0,West,completed,182.48
+101184,1251,02-Jun-2024,TOYS,74.07,4,0.0,West,refunded,296.28
+101185,1379,22-Apr-2024,Sports,56.69,3,20.0,West,completed,136.06
+101186,1306,2024-02-22,Books,31.28,3,0.0,East,refunded,93.84
+101187,1161,07-Aug-2024,Electronics,42.46,5,0.0,South,completed,212.3
+101188,1023,2024-07-26,Toys,80.12,2,0.0,North,refunded,160.24
+101189,1333,03-Jan-2024,Home & Kitchen,43.63,1,0.0,West,refunded,43.63
+101190,1001,2024-06-01,Toys,104.55,4,10.0,East,cancelled,376.38
+101191,1272,2024-04-11,Books,86.75,5,20.0,West,completed,347.0
+101192,1268,03/03/2024,Apparel,81.57,4,5.0,East,completed,309.97
+101193,1076,09/14/2024,Electronics,73.37,3,0.0,East,refunded,220.11
+101194,1295,11-Jul-2024,Apparel,48.65,2,0.0,North,completed,97.3
+101195,1070,08/19/2024,Apparel,92.06,3,0.0,South,cancelled,276.18
+101196,1090,2024-09-18,Books,47.99,1,5.0,East,completed,45.59
+101197,1324,12/25/2024,Books,107.16,3,15.0,North,completed,273.26
+101198,1391,10/20/2024,Sports,131.32,2,0.0,North,completed,262.64
+101199,1105,08/15/2024,Books,74.45,2,15.0,East,completed,126.56
+101200,1368,11/17/2024,Apparel,123.54,3,0.0,North,completed,370.62
+101201,1365,23-Jun-2024,Apparel,42.75,5,10.0,East,refunded,192.38
+101202,1307,26-Dec-2024,Books,87.18,2,15.0,South,refunded,148.21
+101203,1056,2024-10-05,Toys,69.15,5,15.0,South,completed,293.89
+101204,1119,2024-08-26,Sports,97.59,3,10.0,North,completed,263.49
+101205,1271,2024-11-26,Apparel,24.21,5,10.0,South,completed,108.94
+101206,1399,2024-07-07,Toys,95.01,2,0.0,East,refunded,190.02
+101207,1325,20-Sep-2024,Toys,50.85,5,0.0,East,completed,254.25
+101208,1168,04/14/2024,Apparel,70.71,4,0.0,South,completed,282.84
+101209,1094,12/18/2024,Electronics,158.12,4,10.0,North,cancelled,569.23
+101210,1384,08/16/2024,Electronics,88.49,3,10.0,West,completed,238.92
+101211,1110,13-Oct-2024,Electronics,83.33,3,15.0,West,cancelled,212.49
+101212,1136,17-Jun-2024,Apparel,80.31,3,0.0,West,cancelled,240.93
+101213,1385,11/13/2024,SPORTS,112.15,5,20.0,South,cancelled,448.6
+101214,1224,01/28/2024,Toys,99.08,4,5.0,East,cancelled,376.5
+101215,1105,02/11/2024,Home & Kitchen,80.71,1,0.0,North,refunded,80.71
+101216,1002,04-Jul-2024,Toys,76.27,4,15.0,West,completed,259.32
+101217,1171,25-Sep-2024,Sports,74.0,5,0.0,North,completed,370.0
+101218,1394,2024-10-23,Electronics,67.43,4,0.0,South,completed,269.72
+101219,1173,10-Jun-2024,Apparel,38.16,3,15.0,West,cancelled,97.31
+101220,1279,08/25/2024,Home & Kitchen,87.64,2,15.0,East,refunded,148.99
+101221,1101,21-Jul-2024,Books,53.25,4,0.0,West,cancelled,
+101222,1310,17-Dec-2024,Books,63.73,4,0.0,South,refunded,254.92
+101223,1310,27-Aug-2024,Toys,102.06,2,0.0,North,completed,204.12
+101224,1243,2024-06-01,Sports,68.15,3,0.0,North,completed,204.45
+101225,1308,2024-12-20,Apparel,65.75,2,15.0,North,cancelled,111.78
+101226,1231,09-Feb-2024,Home & Kitchen,74.55,1,15.0,North,refunded,63.37
+101227,1151,2024-12-26,Toys,60.02,1,5.0,South,cancelled,57.02
+101228,1295,2024-02-26,Electronics,156.57,1,5.0,North,completed,148.74
+101229,1334,2024-04-15,Home & Kitchen,146.8,3,0.0,North,completed,440.4
+101230,1336,10/27/2024,Electronics,145.07,3,0.0,South,completed,435.21
+101231,1085,2024-09-25,Apparel,80.43,3,0.0,East,completed,241.29
+101232,1270,2024-12-21,Home & Kitchen,51.66,5,10.0,East,refunded,232.47
+101233,1001,10/01/2024,Home & Kitchen,103.29,2,0.0,North,completed,206.58
+101234,1228,08/21/2024,Apparel,60.23,2,0.0,West,completed,120.46
+101235,1228,05/06/2024,Books,107.34,2,15.0,East,refunded,182.48
+101236,1145,02-Jan-2024,Sports,50.53,2,10.0,South,refunded,90.95
+101237,1397,15-Feb-2024,Toys,83.03,3,5.0,South,completed,236.64
+101238,1353,2024-04-18,Books,114.09,2,0.0,West,completed,228.18
+101239,1015,15-Jan-2024,Books,61.79,2,0.0,South,completed,123.58
+101240,1083,2024-07-04,Apparel,61.68,4,5.0,North,completed,234.38
+101241,1083,10/11/2024,Books,33.28,5,0.0,South,refunded,166.4
+101242,1359,12/18/2024,Books,51.26,2,5.0,North,completed,97.39
+101243,1207,28-Jun-2024,Books,79.73,1,0.0,North,cancelled,79.73
+101244,1291,2024-11-16,Apparel,85.15,2,0.0,South,completed,170.3
+101245,1323,26-Dec-2024,Home & Kitchen,90.72,3,0.0,North,cancelled,
+101246,1307,11/10/2024,Sports,27.0,5,0.0,South,completed,135.0
+101247,1035,19-Jun-2024,Books,60.37,1,0.0,North,refunded,60.37
+101248,1056,29-Apr-2024,Books,35.28,1,0.0,East,refunded,35.28
+101249,1158,12/23/2024,Sports,77.94,3,5.0,North,completed,222.13
+101250,1135,2024-03-29,Electronics,30.17,5,5.0,North,completed,143.31
+101251,1298,30-May-2024,Apparel,40.39,3,0.0,West,completed,121.17
+101252,1062,01/28/2024,Toys,98.33,5,10.0,North,completed,442.48
+101253,1148,10/17/2024,Sports,54.05,4,0.0,South,refunded,216.2
+101254,1094,08/25/2024,Apparel,124.01,1,0.0,East,refunded,124.01
+101255,1075,2024-02-01,APPAREL,91.78,3,5.0,South,completed,261.57
+101256,1069,2024-03-22,Electronics,61.95,4,0.0,South,completed,247.8
+101257,1078,22-Jul-2024,Home & Kitchen,105.22,3,0.0,North,completed,315.66
+101258,1225,2024-07-16,Toys,64.38,1,10.0,South,completed,57.94
+101259,1164,10/20/2024,Home & Kitchen,95.84,1,0.0,West,cancelled,95.84
+101260,1174,07-Apr-2024,Books,50.08,4,5.0,East,refunded,190.3
+101261,1191,2024-12-04,Electronics,107.94,3,0.0,West,completed,323.82
+101262,1296,06/11/2024,Sports,31.63,3,10.0,East,completed,85.4
+101263,1344,28-Oct-2024,Apparel,40.37,2,0.0,West,refunded,80.74
+101264,1210,28-Mar-2024,Toys,43.78,2,0.0,South,completed,87.56
+101265,1256,2024-01-14,Books,52.59,4,0.0,East,refunded,210.36
+101266,1295,01/21/2024,Sports,81.0,1,10.0,East,completed,72.9
+101267,1276,2024-05-16,SPORTS,69.81,3,15.0,West,cancelled,178.02
+101268,1053,12/14/2024,Toys,96.33,2,5.0,East,cancelled,183.03
+101269,1393,2024-01-18,Sports,114.8,4,0.0,South,completed,459.2
+101270,1065,15-May-2024,Home & Kitchen,29.86,4,0.0,North,completed,119.44
+101271,1164,2024-02-09,Apparel,120.95,3,15.0,West,completed,308.42
+101272,1261,06-Dec-2024,Home & Kitchen,63.73,2,0.0,South,cancelled,127.46
+101273,1161,09/04/2024,Apparel,143.8,2,15.0,West,completed,244.46
+101274,1097,06-Oct-2024,Sports,49.03,2,0.0,East,completed,98.06
+101275,1369,2024-09-18,Home & Kitchen,25.44,2,0.0,North,refunded,50.88
+101276,1028,2024-08-28,Home & Kitchen,92.24,4,10.0,East,refunded,5988.561192053549
+101277,1098,10/10/2024,TOYS,89.69,1,0.0,South,completed,89.69
+101278,1397,03-Jan-2024,Apparel,40.89,1,0.0,North,completed,40.89
+101279,1291,12-Nov-2024,Home & Kitchen,42.92,3,0.0,South,completed,128.76
+101280,1034,27-Sep-2024,Toys,99.53,2,10.0,East,refunded,
+101281,1301,09/27/2024,Toys,82.75,5,0.0,North,refunded,413.75
+101282,1387,23-May-2024,Toys,60.81,4,0.0,East,completed,243.24
+101283,1039,10/20/2024,Toys,86.5,4,5.0,West,completed,328.7
+101284,1165,19-May-2024,Books,79.09,3,20.0,North,completed,189.82
+101285,1187,18-Jan-2024,Sports,45.14,3,0.0,North,completed,135.42
+101286,1052,28-Nov-2024,Home & Kitchen,102.84,3,5.0,North,completed,293.09
+101287,1080,03/26/2024,Books,94.06,1,15.0,East,completed,79.95
+101288,1069,02/07/2024,Home & Kitchen,70.54,3,0.0,West,completed,211.62
+101289,1074,08/15/2024,Home & Kitchen,99.56,5,5.0,West,completed,472.91
+101290,1161,26-Mar-2024,Toys,151.86,2,15.0,North,refunded,258.16
+101291,1185,10-Nov-2024,Books,42.67,1,15.0,South,completed,36.27
+101292,1095,11-Jun-2024,Apparel,62.07,3,,North,cancelled,186.21
+101293,1115,02-Jan-2024,TOYS,63.49,2,15.0,South,completed,107.93
+101294,1076,14-Dec-2024,Books,98.59,4,10.0,South,completed,354.92
+101295,1318,07-Jul-2024,Toys,52.28,5,5.0,East,cancelled,248.33
+101296,1084,06-Apr-2024,Electronics,96.15,5,5.0,West,refunded,456.71
+101297,1363,04-Sep-2024,Sports,55.21,2,20.0,West,cancelled,88.34
+101298,1215,2024-07-13,Home & Kitchen,40.27,5,20.0,North,completed,161.08
+101299,1321,11-Jan-2024,Books,72.43,1,20.0,North,refunded,57.94
+101300,1254,10/05/2024,Electronics,54.65,2,10.0,South,completed,98.37
+101301,1106,26-May-2024,Books,75.69,2,0.0,South,refunded,151.38
+101302,1240,09/13/2024,Home & Kitchen,83.86,5,0.0,South,completed,419.3
+101303,1109,11/23/2024,Apparel,31.0,4,0.0,East,refunded,124.0
+101304,1047,11-Aug-2024,Home & Kitchen,57.61,2,20.0,East,completed,92.18
+101305,1101,09/02/2024,TOYS,72.46,1,0.0,West,cancelled,72.46
+101306,1110,03-Apr-2024,Apparel,99.75,4,0.0,East,completed,399.0
+101307,1054,2024-03-27,Toys,94.36,4,0.0,South,completed,377.44
+101308,1009,31-May-2024,Electronics,46.99,5,0.0,North,completed,234.95
+101309,1377,11/08/2024,Apparel,64.93,3,5.0,South,completed,185.05
+101310,1205,10-Jul-2024,Books,85.81,1,10.0,West,completed,77.23
+101311,1160,2024-05-07,Books,62.88,2,0.0,West,refunded,125.76
+101312,1371,10/12/2024,Home & Kitchen,49.19,4,15.0,South,cancelled,167.25
+101313,1089,11/08/2024,Apparel,68.6,2,5.0,North,cancelled,130.34
+101314,1161,2024-11-26,Apparel,82.22,1,20.0,North,completed,65.78
+101315,1338,04/19/2024,Sports,44.84,5,15.0,North,completed,190.57
+101316,1252,09/16/2024,Sports,89.94,3,0.0,East,completed,
+101317,1159,04-Aug-2024,Electronics,74.38,2,0.0,East,completed,148.76
+101318,1102,13-Jun-2024,Toys,91.39,3,15.0,East,completed,233.04
+101319,1014,05/25/2024,Home & Kitchen,67.91,4,5.0,North,completed,258.06
+101320,1034,02/11/2024,Home & Kitchen,141.54,1,15.0,South,cancelled,120.31
+101321,1064,2024-04-10,Books,81.52,3,0.0,North,completed,
+101322,1314,20-Jul-2024,Toys,95.96,2,0.0,South,completed,191.92
+101323,1255,20-Nov-2024,Apparel,89.78,1,15.0,East,refunded,76.31
+101324,1173,13-Nov-2024,Books,64.54,1,15.0,South,refunded,54.86
+101325,1313,03/09/2024,Apparel,78.29,3,10.0,East,completed,211.38
+101326,1064,09/05/2024,Sports,52.86,3,0.0,South,refunded,158.58
+101327,1084,01-Feb-2024,Home & Kitchen,136.95,3,0.0,East,cancelled,410.85
+101328,1157,04-Sep-2024,Home & Kitchen,85.52,4,15.0,South,cancelled,
+101329,1366,2024-05-05,Apparel,47.82,3,10.0,South,refunded,129.11
+101330,1245,06/13/2024,Sports,123.07,3,10.0,North,completed,332.29
+101331,1340,09/19/2024,Toys,66.05,5,0.0,East,completed,330.25
+101332,1099,06/04/2024,Apparel,101.92,4,15.0,West,completed,
+101333,1339,10/22/2024,Books,30.57,5,15.0,East,cancelled,129.92
+101334,1028,2024-07-14,Sports,113.14,2,20.0,East,cancelled,181.02
+101335,1091,12/31/2024,ELECTRONICS,83.97,4,5.0,West,refunded,319.09
+101336,1209,2024-08-21,Toys,46.01,4,15.0,North,cancelled,156.43
+101337,1020,2024-04-18,Sports,83.32,3,0.0,West,completed,
+101338,1343,2024-10-10,Apparel,130.83,1,10.0,North,completed,
+101339,1346,05/29/2024,Apparel,53.59,3,10.0,East,completed,144.69
+101340,1216,07/14/2024,Home & Kitchen,53.26,5,15.0,West,completed,226.36
+101341,1122,02/20/2024,Sports,64.1,4,15.0,West,cancelled,217.94
+101342,1039,2024-02-13,Sports,72.15,1,0.0,South,refunded,72.15
+101343,1247,29-Jul-2024,Apparel,104.87,2,15.0,West,completed,178.28
+101344,1215,03/09/2024,Home & Kitchen,86.03,3,15.0,East,completed,219.38
+101345,1303,12/31/2024,Apparel,64.08,5,5.0,North,completed,304.38
+101346,1241,11/09/2024,Apparel,79.78,3,5.0,North,completed,227.37
+101347,1051,09/13/2024,Apparel,140.27,5,15.0,West,completed,596.15
+101348,1048,09/25/2024,Home & Kitchen,92.57,4,5.0,West,completed,351.77
+101349,1312,05-Aug-2024,Sports,67.19,2,0.0,West,completed,134.38
+101350,1063,23-Jan-2024,Home & Kitchen,63.23,1,15.0,South,cancelled,53.75
+101351,1375,23-May-2024,Sports,77.7,5,,South,refunded,330.22
+101352,1042,06/30/2024,Electronics,104.3,3,0.0,West,completed,312.9
+101353,1291,11/30/2024,Apparel,50.12,5,15.0,North,completed,213.01
+101354,1390,2024-03-21,Toys,98.07,5,0.0,West,cancelled,490.35
+101355,1176,06/30/2024,Toys,66.58,3,0.0,East,refunded,199.74
+101356,1022,05-May-2024,Toys,71.03,1,20.0,East,completed,56.82
+101357,1350,2024-02-19,Toys,188.46,5,0.0,South,completed,942.3
+101358,1074,07-Feb-2024,Electronics,93.74,3,0.0,West,completed,281.22
+101359,1210,13-May-2024,Apparel,55.43,1,0.0,East,cancelled,55.43
+101360,1393,01/31/2024,Sports,83.86,3,5.0,North,refunded,239.0
+101361,1297,01/25/2024,Toys,106.59,1,0.0,East,completed,106.59
+101362,1018,08-May-2024,Sports,94.19,2,0.0,West,refunded,188.38
+101363,1328,2024-03-14,Books,23.2,2,0.0,North,cancelled,46.4
+101364,1064,2024-07-22,Home & Kitchen,13.12,3,0.0,East,completed,39.36
+101365,1299,2024-01-07,Electronics,69.72,3,0.0,North,cancelled,209.16
+101366,1248,20-Apr-2024,Electronics,85.47,5,20.0,East,refunded,341.88
+101367,1115,06/14/2024,Sports,82.47,2,10.0,West,completed,148.45
+101368,1169,2024-12-18,Sports,57.49,4,0.0,South,cancelled,229.96
+101369,1047,2024-08-20,Home & Kitchen,94.9,5,0.0,North,refunded,474.5
+101370,1394,11/18/2024,Toys,113.35,4,15.0,North,completed,
+101371,1095,05/05/2024,Toys,31.49,2,0.0,East,completed,62.98
+101372,1123,2024-06-13,Apparel,30.03,4,,West,cancelled,120.12
+101373,1201,2024-06-02,Home & Kitchen,83.54,2,10.0,South,cancelled,150.37
+101374,1268,20-Nov-2024,Toys,98.32,3,15.0,West,completed,250.72
+101375,1202,17-Dec-2024,Toys,53.7,4,0.0,South,refunded,214.8
+101376,1202,2024-12-18,Home & Kitchen,23.92,2,15.0,North,completed,40.66
+101377,1233,10/02/2024,Home & Kitchen,70.24,1,0.0,East,completed,70.24
+101378,1343,2024-07-03,Apparel,83.01,5,0.0,West,completed,415.05
+101379,1158,07/16/2024,Sports,61.78,4,15.0,South,completed,210.05
+101380,1332,2024-12-24,Electronics,107.75,1,20.0,West,completed,
+101381,1314,14-Apr-2024,Books,80.8,2,20.0,East,completed,129.28
+101382,1384,06-May-2024,Apparel,51.06,2,0.0,South,completed,102.12
+101383,1365,24-Nov-2024,Apparel,53.51,5,5.0,East,cancelled,254.17
+101384,1319,2024-05-21,Electronics,70.92,5,10.0,South,completed,
+101385,1098,27-Mar-2024,Books,59.9,4,0.0,North,refunded,239.6
+101386,1309,07/24/2024,Home & Kitchen,29.07,3,20.0,West,completed,69.77
+101387,1294,2024-04-29,Books,77.77,1,0.0,South,completed,77.77
+101388,1115,2024-11-22,Apparel,54.15,2,0.0,East,completed,108.3
+101389,1271,28-Nov-2024,Books,58.4,1,20.0,East,completed,46.72
+101390,1101,21-Apr-2024,Home & Kitchen,42.49,4,5.0,North,completed,161.46
+101391,1209,12-Jul-2024,Electronics,132.33,1,10.0,East,completed,119.1
+101392,1318,2024-12-26,Toys,91.33,4,5.0,South,cancelled,347.05
+101393,1075,09/28/2024,Toys,146.62,5,15.0,East,completed,623.14
+101394,1134,19-Mar-2024,Sports,61.64,2,0.0,South,refunded,123.28
+101395,1318,2024-08-04,Electronics,93.6,4,10.0,West,completed,336.96
+101396,1181,2024-08-14,Books,78.37,5,0.0,North,completed,391.85
+101397,1384,2024-08-27,Apparel,51.99,3,0.0,North,completed,155.97
+101398,1003,2024-01-10,Books,61.35,3,5.0,South,refunded,174.85
+101399,1288,19-Apr-2024,Books,91.25,2,5.0,North,cancelled,173.38
+101400,1325,2024-11-08,Books,42.46,3,0.0,North,completed,127.38
+101401,1367,2024-03-29,Toys,108.22,5,15.0,East,completed,459.94
+101402,1062,2024-04-19,Toys,75.54,4,0.0,West,completed,5449.327379964165
+101403,1393,28-Apr-2024,Sports,102.03,2,20.0,East,refunded,163.25
+101404,1156,03/05/2024,Electronics,83.15,3,0.0,South,completed,249.45
+101405,1140,26-Feb-2024,Apparel,31.62,4,0.0,West,completed,126.48
+101406,1142,2024-05-07,Toys,69.74,1,0.0,South,cancelled,69.74
+101407,1255,11/15/2024,Toys,109.24,4,10.0,North,completed,393.26
+101408,1263,01-Jan-2024,Sports,75.05,2,0.0,West,refunded,150.1
+101409,1189,13-Apr-2024,Toys,70.54,2,0.0,East,refunded,141.08
+101410,1028,01/23/2024,Electronics,75.02,3,5.0,South,completed,213.81
+101411,1394,2024-07-24,Apparel,27.92,3,20.0,East,completed,67.01
+101412,1088,2024-04-01,Sports,114.15,5,0.0,East,cancelled,570.75
+101413,1037,10/16/2024,Books,20.78,2,0.0,North,completed,41.56
+101414,1238,08/02/2024,Home & Kitchen,124.47,2,,North,cancelled,236.49
+101415,1164,2024-10-13,Home & Kitchen,59.66,2,15.0,East,cancelled,101.42
+101416,1246,2024-08-20,Apparel,85.7,5,0.0,North,completed,428.5
+101417,1350,06/09/2024,Home & Kitchen,26.68,5,0.0,East,cancelled,133.4
+101418,1038,2024-11-11,Sports,97.86,3,0.0,South,refunded,293.58
+101419,1113,06/23/2024,Sports,90.66,4,10.0,North,refunded,326.38
+101420,1206,2024-12-13,Toys,88.27,5,0.0,East,completed,441.35
+101421,1315,2024-12-30,Books,26.06,5,10.0,South,completed,117.27
+101422,1240,2024-08-03,Electronics,48.76,4,0.0,South,completed,195.04
+101423,1153,09/03/2024,Home & Kitchen,83.35,3,0.0,North,completed,250.05
+101424,1244,2024-04-03,Home & Kitchen,112.8,5,20.0,East,cancelled,451.2
+101425,1391,10/25/2024,Home & Kitchen,45.37,2,15.0,West,completed,77.13
+101426,1192,02-Sep-2024,Toys,45.96,2,15.0,East,completed,78.13
+101427,1353,26-Nov-2024,Electronics,80.95,4,20.0,North,cancelled,259.04
+101428,1311,07-Apr-2024,Electronics,180.81,1,0.0,West,completed,180.81
+101429,1120,15-Oct-2024,Books,52.42,3,15.0,North,cancelled,133.67
+101430,1099,21-Jun-2024,Books,59.33,5,,South,cancelled,296.65
+101431,1308,08-Mar-2024,Home & Kitchen,55.37,1,,North,completed,55.37
+101432,1082,2024-03-03,Home & Kitchen,66.65,5,5.0,West,cancelled,316.59
+101433,1134,07/24/2024,Sports,116.7,3,15.0,North,cancelled,297.59
+101434,1094,26-Apr-2024,SPORTS,68.25,5,10.0,East,completed,
+101435,1242,07-Feb-2024,BOOKS,188.68,4,5.0,North,completed,716.98
+101436,1117,06/05/2024,Apparel,73.85,1,0.0,North,completed,73.85
+101437,1263,2024-08-26,Electronics,121.63,4,10.0,East,completed,437.87
+101438,1373,2024-04-26,Apparel,61.36,1,5.0,West,refunded,58.29
+101439,1331,12/15/2024,Sports,38.22,2,5.0,North,completed,
+101440,1379,12-Oct-2024,Sports,68.2,5,10.0,North,completed,306.9
+101441,1009,07/06/2024,Sports,88.84,5,10.0,South,completed,399.78
+101442,1182,2024-12-08,Books,48.96,1,0.0,West,completed,48.96
+101443,1088,07-Jun-2024,Toys,113.22,2,0.0,North,cancelled,226.44
+101444,1367,02/21/2024,Home & Kitchen,56.62,1,0.0,North,completed,56.62
+101445,1284,01/14/2024,Apparel,42.49,2,0.0,South,cancelled,84.98
+101446,1128,09-Dec-2024,Toys,172.49,5,0.0,South,completed,862.45
+101447,1225,12/17/2024,Apparel,47.76,1,0.0,North,completed,47.76
+101448,1242,09/27/2024,Apparel,55.85,4,20.0,East,cancelled,178.72
+101449,1198,07-Feb-2024,Home & Kitchen,95.26,5,0.0,East,completed,476.3
+101450,1189,04/17/2024,Home & Kitchen,60.4,5,15.0,North,completed,4629.475570680437
+101451,1022,01/16/2024,Toys,43.24,2,0.0,East,completed,86.48
+101452,1180,01/19/2024,Books,53.31,4,20.0,North,completed,170.59
+101453,1139,31-Mar-2024,Toys,150.96,3,0.0,East,completed,452.88
+101454,1327,2024-07-28,Home & Kitchen,90.23,1,0.0,South,completed,90.23
+101455,1346,2024-01-24,Electronics,98.07,2,15.0,North,completed,166.72
+101456,1300,26-Dec-2024,Electronics,79.21,4,0.0,North,completed,316.84
+101457,1012,06/15/2024,Apparel,85.19,4,5.0,West,completed,323.72
+101458,1336,2024-04-06,Sports,58.32,3,15.0,East,completed,148.72
+101459,1158,07/07/2024,Books,74.85,4,0.0,East,completed,299.4
+101460,1166,2024-10-16,Books,24.88,4,0.0,North,completed,99.52
+101461,1378,04/24/2024,Electronics,106.17,2,15.0,North,completed,180.49
+101462,1346,2024-01-18,Toys,58.07,2,0.0,North,completed,116.14
+101463,1020,01/19/2024,Home & Kitchen,39.85,5,20.0,South,completed,159.4
+101464,1143,07-Nov-2024,Home & Kitchen,76.76,5,20.0,South,refunded,307.04
+101465,1299,2024-02-10,Sports,64.48,1,20.0,West,cancelled,
+101466,1215,20-Aug-2024,Electronics,104.51,4,20.0,West,refunded,334.43
+101467,1103,2024-05-20,Apparel,68.88,1,15.0,South,completed,58.55
+101468,1209,10/11/2024,Sports,52.77,5,0.0,South,completed,263.85
+101469,1346,23-Jan-2024,Home & Kitchen,69.63,3,20.0,South,completed,167.11
+101470,1089,24-Nov-2024,Sports,127.75,4,0.0,East,refunded,511.0
+101471,1298,2024-09-12,Apparel,106.04,4,10.0,East,completed,381.74
+101472,1293,2024-06-13,Toys,90.13,4,0.0,East,completed,360.52
+101473,1354,16-Mar-2024,Home & Kitchen,108.05,2,20.0,North,refunded,172.88
+101474,1119,23-Dec-2024,Electronics,93.19,5,10.0,South,refunded,419.36
+101475,1086,04/20/2024,Sports,46.12,3,20.0,West,completed,110.69
+101476,1219,2024-06-28,Home & Kitchen,98.42,3,,South,refunded,295.26
+101477,1212,05/24/2024,Toys,113.68,2,0.0,North,completed,227.36
+101478,1163,03/25/2024,Electronics,116.49,1,5.0,North,refunded,110.67
+101479,1311,06/01/2024,Sports,41.49,3,20.0,North,refunded,99.58
+101480,1319,2024-02-25,Books,55.92,2,5.0,West,completed,106.25
+101481,1098,2024-01-01,Electronics,52.1,4,15.0,North,refunded,177.14
+101482,1318,16-Apr-2024,Home & Kitchen,61.09,2,0.0,East,completed,122.18
+101483,1092,2024-02-11,Books,86.02,5,15.0,South,completed,365.58
+101484,1163,31-May-2024,Sports,75.9,4,15.0,North,refunded,258.06
+101485,1010,11/11/2024,Home & Kitchen,75.91,3,20.0,West,completed,182.18
+101486,1136,02/29/2024,Home & Kitchen,36.19,4,0.0,East,cancelled,144.76
+101487,1383,01-Jan-2024,TOYS,54.96,4,0.0,West,cancelled,219.84
+101488,1177,2024-02-10,Books,120.27,4,0.0,West,cancelled,481.08
+101489,1284,04-Jul-2024,Apparel,113.46,3,0.0,West,completed,340.38
+101490,1043,2024-04-10,Apparel,68.36,5,15.0,East,completed,290.53
+101491,1254,06/28/2024,Toys,98.54,2,10.0,East,completed,177.37
+101492,1148,01/11/2024,Home & Kitchen,82.62,3,15.0,East,completed,210.68
+101493,1297,05/01/2024,Home & Kitchen,103.28,2,15.0,South,completed,175.58
+101494,1371,2024-05-30,Toys,100.43,3,20.0,North,refunded,241.03
+101495,1212,06-Jun-2024,Home & Kitchen,70.84,5,20.0,South,completed,283.36
+101496,1041,2024-07-20,Toys,90.38,4,10.0,South,completed,325.37
+101497,1190,10/12/2024,Apparel,85.02,2,20.0,North,refunded,136.03
+101498,1049,06/20/2024,Books,71.68,5,,West,refunded,358.4
+101499,1179,11/03/2024,Electronics,64.88,4,15.0,West,refunded,220.59
+101500,1024,07/12/2024,Books,141.74,3,5.0,South,completed,403.96
+101501,1256,05-Apr-2024,Home & Kitchen,71.72,1,20.0,South,completed,57.38
+101502,1124,24-Mar-2024,Electronics,95.88,3,5.0,West,cancelled,273.26
+101503,1080,2024-04-28,Toys,136.94,5,0.0,South,refunded,684.7
+101504,1006,08/06/2024,Sports,90.31,3,15.0,East,cancelled,230.29
+101505,1355,03/29/2024,Books,88.54,1,20.0,East,completed,70.83
+101506,1334,11/30/2024,ELECTRONICS,71.91,1,0.0,South,completed,71.91
+101507,1324,24-Jun-2024,Electronics,85.69,5,0.0,West,refunded,428.45
+101508,1023,11/11/2024,Sports,62.43,3,10.0,North,completed,168.56
+101509,1139,09/07/2024,Books,199.69,4,5.0,North,completed,758.82
+101510,1388,2024-05-02,Apparel,36.61,2,5.0,East,completed,69.56
+101511,1231,03/24/2024,Toys,66.71,1,0.0,East,completed,66.71
+101512,1051,09/29/2024,BOOKS,90.96,3,10.0,West,completed,245.59
+101513,1056,05/01/2024,Books,88.58,4,5.0,East,refunded,336.6
+101514,1105,31-Mar-2024,Sports,62.38,2,15.0,North,refunded,106.05
+101515,1388,2024-12-06,Toys,30.19,4,0.0,West,completed,120.76
+101516,1067,2024-06-25,Sports,39.58,3,0.0,South,completed,118.74
+101517,1361,01/18/2024,Toys,78.26,2,,North,completed,156.52
+101518,1271,2024-06-30,Sports,25.71,2,5.0,East,cancelled,48.85
+101519,1368,17-Jun-2024,Sports,93.76,2,10.0,North,completed,168.77
+101520,1330,12-Nov-2024,Apparel,117.65,2,0.0,South,completed,235.3
+101521,1132,09/17/2024,Sports,101.04,4,15.0,South,refunded,343.54
+101522,1331,03/11/2024,Toys,109.79,2,20.0,North,cancelled,175.66
+101523,1067,2024-02-25,Books,26.24,4,0.0,West,completed,104.96
+101524,1116,08/08/2024,Sports,63.51,2,10.0,East,cancelled,114.32
+101525,1084,18-Jan-2024,Electronics,44.42,2,10.0,West,refunded,79.96
+101526,1053,26-Apr-2024,SPORTS,32.78,5,0.0,South,completed,163.9
+101527,1036,20-Feb-2024,Home & Kitchen,57.56,5,0.0,East,refunded,287.8
+101528,1074,01/08/2024,ELECTRONICS,135.44,3,0.0,West,completed,406.32
+101529,1048,12/02/2024,Electronics,151.8,2,0.0,North,refunded,303.6
+101530,1152,2024-02-02,Sports,47.19,4,0.0,West,completed,188.76
+101531,1028,04-Jan-2024,Books,74.0,1,0.0,North,completed,74.0
+101532,1024,07-Dec-2024,Sports,85.16,3,20.0,West,refunded,204.38
+101533,1395,03/09/2024,APPAREL,63.72,3,10.0,East,cancelled,172.04
+101534,1035,25-Oct-2024,Electronics,121.35,4,0.0,East,completed,485.4
+101535,1029,2024-01-12,Toys,57.96,1,15.0,North,completed,49.27
+101536,1012,2024-02-26,Electronics,53.55,1,0.0,East,refunded,53.55
+101537,1053,02/10/2024,Books,48.39,2,10.0,East,cancelled,87.1
+101538,1211,2024-09-15,Toys,63.52,1,10.0,West,refunded,57.17
+101539,1330,2024-08-14,Books,16.48,3,15.0,West,refunded,42.02
+101540,1293,23-Jun-2024,Home & Kitchen,64.9,5,0.0,South,completed,324.5
+101541,1232,03/29/2024,Electronics,76.03,2,10.0,South,completed,136.85
+101542,1034,02/02/2024,Home & Kitchen,78.17,3,15.0,South,refunded,199.33
+101543,1309,27-Jul-2024,Toys,43.13,2,15.0,South,refunded,73.32
+101544,1014,03/25/2024,Home & Kitchen,77.51,1,0.0,North,completed,77.51
+101545,1252,08/04/2024,Books,76.79,4,20.0,North,completed,245.73
+101546,1163,09/08/2024,Electronics,77.55,2,0.0,West,completed,155.1
+101547,1352,11/06/2024,Electronics,101.9,3,0.0,South,completed,305.7
+101548,1123,29-Jun-2024,Home & Kitchen,42.26,4,0.0,South,completed,169.04
+101549,1255,01/02/2024,Toys,64.07,5,0.0,East,completed,320.35
+101550,1175,04/12/2024,Sports,29.16,1,0.0,East,completed,29.16
+101551,1208,11/08/2024,Apparel,97.76,3,0.0,South,refunded,293.28
+101552,1375,2024-07-14,Sports,45.48,5,15.0,West,completed,193.29
+101553,1285,2024-08-14,Sports,108.78,3,10.0,North,refunded,293.71
+101554,1165,2024-06-16,Sports,110.47,1,0.0,South,completed,110.47
+101555,1178,2024-02-29,Sports,66.94,2,5.0,North,cancelled,127.19
+101556,1281,11/24/2024,Electronics,65.35,4,10.0,East,completed,235.26
+101557,1138,09-Oct-2024,Home & Kitchen,35.01,4,0.0,North,completed,140.04
+101558,1067,30-Dec-2024,Sports,72.92,2,0.0,West,completed,145.84
+101559,1187,09-Nov-2024,Electronics,101.51,1,20.0,East,refunded,81.21
+101560,1027,04/16/2024,Apparel,81.85,2,0.0,North,completed,163.7
+101561,1067,2024-04-03,Electronics,127.79,2,20.0,East,refunded,204.46
+101562,1168,03/31/2024,Toys,60.67,4,20.0,South,cancelled,194.14
+101563,1318,02-Dec-2024,Electronics,60.64,5,0.0,East,refunded,303.2
+101564,1312,22-Jul-2024,Electronics,46.97,1,0.0,North,completed,46.97
+101565,1104,15-Jun-2024,Sports,164.37,4,0.0,East,completed,657.48
+101566,1168,12/20/2024,Home & Kitchen,34.85,4,5.0,North,completed,132.43
+101567,1061,08/08/2024,Apparel,98.3,4,0.0,North,completed,393.2
+101568,1302,11/28/2024,Home & Kitchen,102.43,5,15.0,East,completed,435.33
+101569,1098,2024-12-26,Home & Kitchen,100.51,1,0.0,East,refunded,100.51
+101570,1319,2024-01-30,Toys,48.85,4,20.0,South,cancelled,156.32
+101571,1336,2024-05-12,Toys,37.93,1,15.0,North,completed,32.24
+101572,1275,25-Sep-2024,Home & Kitchen,66.92,5,0.0,South,completed,334.6
+101573,1132,2024-10-24,Toys,92.12,3,10.0,West,completed,248.72
+101574,1381,24-Feb-2024,Toys,54.0,1,0.0,East,completed,54.0
+101575,1274,04/26/2024,Sports,62.69,4,0.0,North,completed,250.76
+101576,1258,19-Jul-2024,Sports,54.45,4,5.0,West,refunded,206.91
+101577,1342,2024-10-19,Books,75.16,3,5.0,South,completed,214.21
+101578,1352,2024-02-11,Apparel,72.96,2,0.0,East,completed,145.92
+101579,1031,2024-08-07,Apparel,137.87,1,0.0,North,completed,137.87
+101580,1352,04/18/2024,Sports,93.01,5,15.0,South,completed,395.29
+101581,1306,03/20/2024,BOOKS,38.89,1,0.0,West,completed,38.89
+101582,1082,2024-07-07,Toys,40.42,5,5.0,South,completed,192.0
+101583,1123,31-May-2024,Electronics,99.07,3,0.0,North,refunded,297.21
+101584,1301,20-Aug-2024,Apparel,72.61,4,5.0,North,refunded,275.92
+101585,1086,2024-04-26,Toys,159.96,4,10.0,West,cancelled,575.86
+101586,1180,2024-10-28,Home & Kitchen,159.76,5,15.0,West,completed,678.98
+101587,1275,29-Jan-2024,Books,46.84,1,5.0,North,completed,44.5
+101588,1260,11/11/2024,Toys,82.4,5,0.0,West,cancelled,412.0
+101589,1363,11-Jan-2024,Books,40.67,1,20.0,West,completed,32.54
+101590,1044,26-Sep-2024,Electronics,98.33,5,0.0,South,refunded,491.65
+101591,1118,06-May-2024,Sports,146.66,2,0.0,East,cancelled,293.32
+101592,1393,2024-05-20,Sports,77.33,5,0.0,South,completed,386.65
+101593,1227,01/07/2024,Sports,59.7,1,15.0,North,completed,50.74
+101594,1099,09/13/2024,Books,86.15,3,0.0,East,refunded,258.45
+101595,1115,01-Mar-2024,Apparel,107.28,3,0.0,North,cancelled,321.84
+101596,1135,2024-08-29,SPORTS,107.59,5,15.0,South,completed,457.26
+101597,1221,2024-09-22,Toys,60.0,1,0.0,South,completed,60.0
+101598,1113,11/05/2024,Toys,53.38,1,20.0,North,completed,42.7
+101599,1248,16-Sep-2024,Toys,80.44,4,20.0,West,completed,
+101600,1178,20-Apr-2024,Apparel,61.84,1,0.0,East,refunded,61.84
+101601,1244,09/27/2024,Books,121.37,4,10.0,West,completed,436.93
+101602,1062,10/29/2024,Electronics,61.5,1,10.0,East,completed,55.35
+101603,1249,2024-04-26,Apparel,74.83,5,0.0,North,completed,374.15
+101604,1369,15-Feb-2024,SPORTS,85.2,3,0.0,South,completed,255.6
+101605,1054,2024-11-21,Electronics,35.48,5,5.0,South,refunded,168.53
+101606,1130,2024-02-24,Apparel,55.48,1,0.0,West,cancelled,55.48
+101607,1277,08/05/2024,Sports,156.78,2,15.0,North,completed,266.53
+101608,1246,03/27/2024,Sports,105.27,3,0.0,East,completed,315.81
+101609,1269,02/16/2024,Electronics,61.13,1,20.0,North,cancelled,48.9
+101610,1223,11-Oct-2024,Home & Kitchen,98.51,1,15.0,West,cancelled,83.73
+101611,1273,2024-02-22,Home & Kitchen,120.49,2,10.0,East,refunded,216.88
+101612,1243,02-Sep-2024,Sports,65.51,4,0.0,South,refunded,262.04
+101613,1029,2024-09-10,HOME & KITCHEN,103.06,4,0.0,South,cancelled,412.24
+101614,1300,2024-01-23,Sports,96.66,1,0.0,South,completed,
+101615,1178,2024-03-04,Toys,40.99,1,5.0,North,cancelled,38.94
+101616,1020,17-Oct-2024,Toys,65.67,4,15.0,East,cancelled,223.28
+101617,1163,04-Jul-2024,Home & Kitchen,139.5,2,0.0,West,completed,279.0
+101618,1174,14-Feb-2024,BOOKS,154.77,4,10.0,North,completed,557.17
+101619,1034,2024-12-28,Electronics,105.66,2,0.0,East,completed,211.32
+101620,1398,06-Apr-2024,Electronics,54.61,2,0.0,East,refunded,109.22
+101621,1088,2024-01-02,Electronics,22.21,2,10.0,West,cancelled,39.98
+101622,1132,12/04/2024,Home & Kitchen,51.2,2,15.0,West,completed,87.04
+101623,1176,07-Jan-2024,Books,38.3,4,15.0,North,completed,130.22
+101624,1333,2024-07-21,Home & Kitchen,144.1,3,5.0,North,refunded,410.68
+101625,1297,2024-12-29,Toys,28.8,4,0.0,West,completed,115.2
+101626,1308,2024-07-30,Apparel,41.55,1,0.0,North,refunded,41.55
+101627,1094,01-Aug-2024,Electronics,79.7,3,15.0,East,completed,203.24
+101628,1338,05/22/2024,Apparel,72.38,3,0.0,West,completed,217.14
+101629,1331,2024-02-16,Electronics,136.42,5,10.0,East,completed,613.89
+101630,1185,07/28/2024,Apparel,94.03,3,10.0,North,refunded,253.88
+101631,1218,24-Nov-2024,Sports,67.86,1,15.0,North,cancelled,57.68
+101632,1014,2024-02-03,Sports,122.36,4,0.0,East,completed,489.44
+101633,1304,11/18/2024,HOME & KITCHEN,60.33,1,,West,completed,60.33
+101634,1384,2024-05-31,Toys,141.37,5,0.0,South,completed,706.85
+101635,1189,2024-07-15,Sports,47.95,2,0.0,East,refunded,95.9
+101636,1216,03/01/2024,Home & Kitchen,14.94,4,5.0,West,refunded,56.77
+101637,1199,08/15/2024,Apparel,71.19,4,0.0,West,cancelled,284.76
+101638,1033,03/07/2024,Electronics,24.06,3,5.0,East,completed,
+101639,1247,2024-04-09,Books,108.08,3,0.0,East,completed,324.24
+101640,1288,09/21/2024,Toys,77.69,1,5.0,West,completed,73.81
+101641,1371,01/19/2024,Home & Kitchen,141.54,1,0.0,West,refunded,141.54
+101642,1371,06/12/2024,Toys,64.59,4,20.0,South,completed,206.69
+101643,1196,08/05/2024,Toys,35.22,5,0.0,East,completed,176.1
+101644,1383,2024-02-18,Sports,88.71,5,20.0,South,cancelled,354.84
+101645,1211,2024-04-17,Electronics,56.25,2,0.0,West,completed,112.5
+101646,1256,05-May-2024,Books,101.25,2,0.0,North,cancelled,202.5
+101647,1240,08/30/2024,Books,48.43,2,0.0,North,completed,96.86
+101648,1399,12/23/2024,Books,130.25,4,0.0,South,completed,521.0
+101649,1295,02-Nov-2024,Books,74.81,4,20.0,North,completed,239.39
+101650,1048,2024-03-10,Books,67.98,4,0.0,East,refunded,271.92
+101651,1028,07-Jan-2024,Toys,126.39,5,15.0,East,completed,537.16
+101652,1163,01/19/2024,Electronics,108.79,2,10.0,West,completed,195.82
+101653,1206,06-Aug-2024,Apparel,51.62,4,0.0,East,completed,206.48
+101654,1267,02/27/2024,Home & Kitchen,107.4,3,0.0,East,cancelled,322.2
+101655,1192,03/25/2024,Home & Kitchen,97.67,5,20.0,East,completed,390.68
+101656,1205,11/06/2024,TOYS,69.73,2,15.0,North,completed,118.54
+101657,1368,2024-11-15,Toys,103.57,1,0.0,East,completed,103.57
+101658,1133,11/03/2024,Sports,130.0,2,20.0,North,refunded,208.0
+101659,1197,02-Apr-2024,Toys,70.67,4,0.0,East,refunded,282.68
+101660,1222,08/14/2024,ELECTRONICS,70.78,5,0.0,West,refunded,353.9
+101661,1187,2024-08-11,Home & Kitchen,69.03,5,15.0,West,completed,293.38
+101662,1387,08-Mar-2024,Books,50.64,1,20.0,East,refunded,40.51
+101663,1384,2024-07-21,Apparel,70.33,3,5.0,South,cancelled,200.44
+101664,1205,2024-07-11,SPORTS,66.81,1,10.0,West,cancelled,60.13
+101665,1180,2024-05-24,Apparel,65.05,2,0.0,West,cancelled,130.1
+101666,1235,2024-10-02,Home & Kitchen,64.6,5,15.0,South,completed,274.55
+101667,1072,2024-09-05,Toys,41.49,5,0.0,North,refunded,207.45
+101668,1170,2024-07-13,Toys,113.63,1,0.0,East,completed,113.63
+101669,1086,22-Sep-2024,Toys,55.44,1,5.0,East,completed,52.67
+101670,1057,10/06/2024,Apparel,133.25,4,0.0,West,completed,533.0
+101671,1038,2024-07-26,Sports,45.84,3,10.0,West,refunded,123.77
+101672,1234,04/07/2024,Books,146.75,3,15.0,North,cancelled,374.21
+101673,1000,04-Oct-2024,Sports,61.68,5,0.0,South,refunded,308.4
+101674,1258,19-Sep-2024,Apparel,107.98,5,15.0,West,cancelled,458.92
+101675,1172,2024-12-25,Home & Kitchen,77.35,5,5.0,South,cancelled,367.41
+101676,1146,2024-02-24,Sports,38.73,4,20.0,South,completed,123.94
+101677,1307,02-Jun-2024,Apparel,39.74,5,0.0,South,cancelled,198.7
+101678,1215,12/04/2024,Sports,53.29,4,10.0,South,cancelled,191.84
+101679,1293,07-Jul-2024,Electronics,60.08,5,5.0,East,completed,285.38
+101680,1283,2024-12-10,Home & Kitchen,71.68,3,20.0,South,refunded,172.03
+101681,1012,2024-01-05,Toys,84.83,1,0.0,South,refunded,84.83
+101682,1086,01/13/2024,Apparel,67.46,5,0.0,South,refunded,337.3
+101683,1227,2024-10-18,Apparel,82.81,5,20.0,North,cancelled,331.24
+101684,1390,11-May-2024,Sports,88.88,2,20.0,West,completed,142.21
+101685,1061,09-Jul-2024,Apparel,66.1,3,15.0,West,completed,168.55
+101686,1042,2024-06-05,Toys,96.97,3,,South,completed,276.36
+101687,1376,05/29/2024,Home & Kitchen,106.58,4,0.0,North,completed,426.32
+101688,1386,12/09/2024,Toys,89.89,4,10.0,East,cancelled,323.6
+101689,1066,02/04/2024,Home & Kitchen,92.17,2,,East,refunded,156.69
+101690,1160,10/09/2024,Apparel,79.54,5,0.0,East,completed,397.7
+101691,1250,11/21/2024,Sports,118.03,5,0.0,East,refunded,590.15
+101692,1078,28-Aug-2024,Books,72.43,5,0.0,East,completed,362.15
+101693,1130,2024-05-24,Home & Kitchen,53.74,3,0.0,North,completed,161.22
+101694,1158,2024-02-28,Sports,73.41,1,10.0,North,refunded,66.07
+101695,1256,06-Sep-2024,Electronics,39.06,5,5.0,North,completed,185.54
+101696,1123,20-Jun-2024,Electronics,36.78,1,10.0,North,refunded,33.1
+101697,1164,02/24/2024,Toys,106.81,1,5.0,West,completed,101.47
+101698,1115,11-May-2024,Toys,134.22,2,0.0,East,completed,268.44
+101699,1303,2024-12-17,Apparel,62.57,1,15.0,East,completed,53.18
+101700,1061,07-Apr-2024,Sports,107.26,4,15.0,East,refunded,364.68
+101701,1092,06-Mar-2024,Apparel,29.57,3,20.0,North,cancelled,70.97
+101702,1099,2024-09-06,Home & Kitchen,27.02,2,15.0,North,completed,45.93
+101703,1362,2024-03-14,Apparel,119.5,1,0.0,West,cancelled,
+101704,1377,12/02/2024,Home & Kitchen,90.02,2,10.0,South,cancelled,162.04
+101705,1200,10-Nov-2024,Toys,72.57,4,0.0,East,completed,290.28
+101706,1062,2024-12-25,Apparel,143.97,4,20.0,West,completed,460.7
+101707,1302,11/30/2024,Home & Kitchen,68.01,2,10.0,North,completed,
+101708,1196,30-Mar-2024,Sports,44.22,1,15.0,West,refunded,37.59
+101709,1339,2024-03-18,Toys,34.29,3,0.0,East,refunded,102.87
+101710,1143,05/05/2024,Home & Kitchen,73.38,4,0.0,South,refunded,293.52
+101711,1399,2024-06-20,Books,79.46,1,0.0,South,refunded,79.46
+101712,1322,2024-11-18,Apparel,66.13,4,5.0,North,completed,251.29
+101713,1089,09/25/2024,Sports,108.32,1,20.0,North,completed,86.66
+101714,1290,2024-08-23,Books,127.77,2,10.0,North,cancelled,229.99
+101715,1114,2024-11-17,Apparel,62.25,4,15.0,West,completed,211.65
+101716,1139,24-Aug-2024,Home & Kitchen,29.54,1,5.0,North,cancelled,28.06
+101717,1100,2024-05-18,Toys,83.03,2,20.0,South,completed,132.85
+101718,1272,31-May-2024,Electronics,119.08,1,20.0,North,cancelled,95.26
+101719,1105,2024-07-08,Apparel,62.38,2,0.0,South,refunded,124.76
+101720,1255,02/02/2024,Books,92.16,4,20.0,North,refunded,294.91
+101721,1232,28-Sep-2024,Apparel,42.68,2,0.0,South,refunded,85.36
+101722,1300,08/26/2024,Toys,82.13,1,10.0,East,cancelled,73.92
+101723,1397,09/24/2024,Sports,92.91,2,5.0,West,completed,176.53
+101724,1003,14-Jul-2024,Home & Kitchen,83.16,1,0.0,South,completed,83.16
+101725,1396,2024-10-13,Home & Kitchen,160.8,4,20.0,East,cancelled,514.56
+101726,1043,13-Dec-2024,Sports,133.5,5,10.0,East,completed,600.75
+101727,1210,27-Jul-2024,Electronics,99.55,1,0.0,West,refunded,
+101728,1136,11-Jun-2024,APPAREL,114.13,4,0.0,West,completed,456.52
+101729,1255,02/08/2024,Apparel,81.88,2,0.0,North,cancelled,163.76
+101730,1288,10/11/2024,Books,71.13,1,0.0,East,cancelled,71.13
+101731,1343,11/26/2024,ELECTRONICS,59.36,4,0.0,West,completed,
+101732,1160,09/13/2024,Books,42.24,2,0.0,South,completed,84.48
+101733,1373,12-Nov-2024,Apparel,136.25,3,15.0,East,completed,347.44
+101734,1128,11-Nov-2024,Sports,163.64,3,20.0,South,completed,392.74
+101735,1081,2024-10-19,Sports,74.17,3,15.0,South,cancelled,189.13
+101736,1151,2024-07-03,Home & Kitchen,74.75,1,5.0,North,completed,71.01
+101737,1211,06-Feb-2024,Books,94.62,2,10.0,North,cancelled,170.32
+101738,1267,01/02/2024,Home & Kitchen,68.15,4,20.0,East,refunded,218.08
+101739,1333,03/15/2024,Electronics,44.83,5,0.0,West,cancelled,224.15
+101740,1089,2024-06-06,Toys,38.5,1,20.0,East,refunded,30.8
+101741,1121,2024-09-29,Sports,161.03,3,15.0,North,cancelled,410.63
+101742,1375,06/15/2024,Books,31.68,5,0.0,North,completed,158.4
+101743,1175,09-Jan-2024,Apparel,84.56,2,5.0,East,completed,160.66
+101744,1096,17-Mar-2024,Electronics,33.74,3,5.0,North,completed,96.16
+101745,1394,24-Dec-2024,Electronics,69.68,5,0.0,East,completed,348.4
+101746,1179,2024-12-27,Apparel,62.11,5,0.0,West,completed,310.55
+101747,1394,2024-05-18,Home & Kitchen,36.45,4,0.0,North,completed,145.8
+101748,1367,10/21/2024,Books,96.09,4,0.0,East,cancelled,384.36
+101749,1362,09/20/2024,Electronics,43.33,4,5.0,West,cancelled,164.65
+101750,1232,2024-12-06,Books,34.1,2,5.0,South,refunded,64.79
+101751,1319,11/20/2024,Home & Kitchen,100.77,5,0.0,West,completed,503.85
+101752,1384,18-Aug-2024,Electronics,62.24,1,0.0,West,completed,62.24
+101753,1107,2024-05-24,Home & Kitchen,51.02,1,20.0,South,refunded,40.82
+101754,1015,17-Aug-2024,Electronics,103.52,4,10.0,South,completed,372.67
+101755,1128,04/26/2024,APPAREL,42.29,5,5.0,East,cancelled,200.88
+101756,1254,05/07/2024,Home & Kitchen,29.95,5,15.0,East,cancelled,127.29
+101757,1218,08/10/2024,Sports,123.98,4,0.0,South,cancelled,495.92
+101758,1032,28-Jul-2024,SPORTS,150.88,2,0.0,North,completed,301.76
+101759,1224,07/31/2024,Electronics,68.84,2,10.0,East,cancelled,123.91
+101760,1069,2024-05-20,Electronics,14.2,3,15.0,North,refunded,36.21
+101761,1202,2024-05-29,Electronics,68.42,2,10.0,North,completed,123.16
+101762,1230,04-Jan-2024,Home & Kitchen,106.14,3,5.0,North,completed,302.5
+101763,1254,2024-08-08,Electronics,118.46,1,0.0,South,completed,118.46
+101764,1165,29-Jul-2024,Home & Kitchen,44.59,2,10.0,North,completed,80.26
+101765,1163,12/08/2024,Sports,63.63,5,10.0,South,cancelled,286.34
+101766,1271,2024-07-03,Home & Kitchen,81.63,4,0.0,North,completed,326.52
+101767,1299,2024-06-20,Home & Kitchen,103.43,1,0.0,South,completed,
+101768,1323,25-Jan-2024,Apparel,98.59,2,20.0,West,cancelled,157.74
+101769,1133,2024-03-13,Sports,91.63,2,0.0,South,completed,183.26
+101770,1169,2024-05-03,Home & Kitchen,118.32,2,0.0,East,cancelled,236.64
+101771,1132,2024-05-18,Home & Kitchen,71.08,4,10.0,North,cancelled,255.89
+101772,1211,05/12/2024,Apparel,136.81,5,5.0,North,completed,649.85
+101773,1050,24-May-2024,Electronics,56.31,4,5.0,West,refunded,213.98
+101774,1172,2024-10-08,Apparel,99.27,3,10.0,East,refunded,268.03
+101775,1075,17-Feb-2024,Books,60.08,1,0.0,North,completed,60.08
+101776,1212,01-May-2024,Apparel,69.3,1,0.0,East,refunded,69.3
+101777,1340,2024-02-29,Electronics,74.27,5,0.0,North,completed,371.35
+101778,1394,2024-04-22,Toys,58.53,4,20.0,North,completed,187.3
+101779,1178,09/07/2024,Electronics,120.62,3,,South,completed,343.77
+101780,1022,2024-01-18,Home & Kitchen,61.42,3,0.0,East,completed,184.26
+101781,1091,2024-05-04,Electronics,72.56,5,0.0,East,cancelled,362.8
+101782,1041,01/09/2024,Books,94.14,5,15.0,West,cancelled,
+101783,1303,15-Dec-2024,Books,192.16,1,20.0,North,refunded,153.73
+101784,1393,23-Sep-2024,Sports,95.67,2,15.0,North,completed,162.64
+101785,1221,03/30/2024,Sports,75.44,1,5.0,East,completed,71.67
+101786,1070,2024-03-13,Sports,27.42,2,5.0,West,completed,52.1
+101787,1008,2024-02-06,Sports,68.47,4,20.0,East,completed,219.1
+101788,1390,06/22/2024,Sports,53.8,2,15.0,East,completed,91.46
+101789,1126,2024-10-02,Books,63.25,1,0.0,North,cancelled,63.25
+101790,1044,08/01/2024,Toys,59.51,3,20.0,West,refunded,142.82
+101791,1070,18-Nov-2024,Electronics,93.72,3,15.0,West,cancelled,238.99
+101792,1102,05-May-2024,Apparel,67.81,4,15.0,East,cancelled,230.55
+101793,1262,2024-04-11,Books,47.95,1,0.0,South,completed,47.95
+101794,1356,2024-06-23,Apparel,108.12,2,0.0,East,completed,216.24
+101795,1110,2024-03-14,Home & Kitchen,40.18,4,0.0,East,refunded,160.72
+101796,1274,12/23/2024,Books,73.89,4,15.0,West,completed,251.23
+101797,1025,2024-03-08,Sports,68.69,5,0.0,North,completed,343.45
+101798,1004,24-Jun-2024,Sports,85.66,5,0.0,East,refunded,428.3
+101799,1021,10-Jul-2024,Apparel,118.87,5,0.0,East,completed,594.35
+101800,1369,2024-01-21,Electronics,205.58,3,0.0,South,cancelled,616.74
+101801,1232,06/20/2024,Apparel,75.42,5,20.0,West,completed,301.68
+101802,1322,06/15/2024,Apparel,53.4,3,15.0,North,completed,136.17
+101803,1008,2024-04-04,Books,51.04,5,15.0,North,completed,216.92
+101804,1008,16-Feb-2024,Home & Kitchen,50.93,2,0.0,West,cancelled,101.86
+101805,1339,17-Jan-2024,Electronics,84.27,3,10.0,North,completed,227.53
+101806,1041,2024-01-04,APPAREL,24.28,4,15.0,South,completed,82.55
+101807,1062,06/25/2024,Books,39.02,2,5.0,South,completed,74.14
+101808,1207,02/02/2024,Apparel,84.31,1,15.0,East,cancelled,71.66
+101809,1242,2024-12-17,Apparel,110.5,5,5.0,North,completed,524.88
+101810,1091,2024-03-30,Toys,110.8,3,0.0,South,completed,
+101811,1177,2024-08-26,Sports,77.02,5,10.0,West,completed,346.59
+101812,1269,03-Sep-2024,Home & Kitchen,104.22,2,20.0,South,refunded,166.75
+101813,1177,06/30/2024,Books,119.79,5,15.0,East,completed,509.11
+101814,1153,19-Nov-2024,Sports,61.0,4,5.0,West,completed,231.8
+101815,1028,2024-02-10,Electronics,114.39,4,10.0,East,refunded,411.8
+101816,1180,03/26/2024,Apparel,32.74,4,20.0,West,cancelled,104.77
+101817,1321,04/02/2024,Books,38.49,2,15.0,West,completed,65.43
+101818,1250,02/19/2024,Apparel,62.68,5,5.0,East,completed,297.73
+101819,1357,17-Apr-2024,Sports,30.67,5,0.0,West,completed,2765.6021767193033
+101820,1050,04/24/2024,Sports,94.4,4,20.0,East,completed,302.08
+101821,1004,2024-10-06,Toys,56.87,5,20.0,West,cancelled,227.48
+101822,1219,2024-04-20,Books,69.02,5,0.0,East,completed,345.1
+101823,1071,11/16/2024,Electronics,70.18,4,0.0,South,completed,
+101824,1237,2024-10-09,Sports,61.96,3,0.0,East,completed,185.88
+101825,1361,2024-11-26,Sports,50.78,5,0.0,South,cancelled,253.9
+101826,1134,2024-02-08,Electronics,92.39,1,0.0,South,completed,
+101827,1219,2024-12-26,Toys,56.32,3,20.0,South,refunded,135.17
+101828,1272,2024-08-12,Electronics,69.76,5,20.0,South,refunded,279.04
+101829,1060,12/25/2024,Apparel,86.05,5,0.0,South,refunded,430.25
+101830,1358,05/09/2024,Home & Kitchen,119.35,2,15.0,East,completed,202.9
+101831,1081,2024-12-14,Electronics,115.17,1,0.0,South,completed,115.17
+101832,1323,2024-08-03,Toys,58.64,2,15.0,South,completed,99.69
+101833,1263,01/27/2024,Home & Kitchen,49.55,5,0.0,North,completed,247.75
+101834,1056,2024-05-30,Home & Kitchen,130.11,3,0.0,South,completed,390.33
+101835,1289,20-Feb-2024,Books,56.18,1,0.0,South,cancelled,56.18
+101836,1078,12/10/2024,Books,90.74,1,15.0,West,completed,77.13
+101837,1239,04/21/2024,Electronics,29.85,2,20.0,South,cancelled,47.76
+101838,1383,2024-03-22,Home & Kitchen,23.93,2,0.0,North,completed,47.86
+101839,1381,2024-07-21,Toys,75.38,1,15.0,South,completed,64.07
+101840,1348,2024-06-04,Toys,65.51,3,0.0,East,completed,196.53
+101841,1197,02/05/2024,Books,101.09,3,5.0,North,refunded,288.11
+101842,1223,2024-10-25,Sports,51.06,1,0.0,North,completed,51.06
+101843,1120,05-Nov-2024,Electronics,83.16,2,20.0,South,completed,133.06
+101844,1368,2024-09-28,Books,98.7,4,15.0,South,completed,335.58
+101845,1190,08/13/2024,Electronics,52.02,5,10.0,South,cancelled,234.09
+101846,1308,05/27/2024,Electronics,62.65,5,15.0,North,completed,266.26
+101847,1143,07/17/2024,Toys,42.15,3,20.0,East,cancelled,101.16
+101848,1296,09-Jul-2024,Sports,102.7,1,0.0,North,completed,102.7
+101849,1089,03/01/2024,Electronics,92.92,5,0.0,East,completed,464.6
+101850,1293,30-Jan-2024,Home & Kitchen,96.01,5,0.0,East,refunded,480.05
+101851,1018,2024-04-02,Sports,65.39,2,5.0,North,cancelled,124.24
+101852,1041,15-Jun-2024,Home & Kitchen,92.22,3,5.0,South,completed,262.83
+101853,1140,02/28/2024,Toys,16.22,1,0.0,North,cancelled,16.22
+101854,1192,02/09/2024,Apparel,68.04,5,10.0,East,refunded,306.18
+101855,1284,11/07/2024,Sports,139.96,4,0.0,South,refunded,559.84
+101856,1143,17-May-2024,APPAREL,72.68,1,15.0,South,completed,61.78
+101857,1007,2024-08-01,Apparel,112.22,4,10.0,North,completed,403.99
+101858,1130,07/10/2024,Apparel,65.55,3,15.0,South,completed,167.15
+101859,1175,2024-09-26,Toys,126.78,3,0.0,South,cancelled,380.34
+101860,1217,09/27/2024,Sports,49.49,2,20.0,North,completed,79.18
+101861,1257,2024-04-18,Sports,87.85,5,5.0,West,refunded,417.29
+101862,1099,11/06/2024,Sports,54.07,3,20.0,South,refunded,129.77
+101863,1244,2024-05-15,Home & Kitchen,81.57,5,10.0,North,completed,367.06
+101864,1252,2024-11-01,Books,56.3,1,10.0,East,completed,50.67
+101865,1310,05/28/2024,Sports,72.55,3,0.0,South,cancelled,217.65
+101866,1208,2024-02-10,Toys,60.09,2,10.0,South,refunded,108.16
+101867,1324,10/05/2024,Books,97.14,5,5.0,East,completed,461.42
+101868,1088,2024-01-12,Books,89.48,3,15.0,North,completed,
+101869,1284,09-Oct-2024,Toys,53.19,4,10.0,East,cancelled,191.48
+101870,1018,16-Jan-2024,Toys,52.49,1,0.0,North,refunded,52.49
+101871,1041,03/16/2024,Apparel,47.49,4,20.0,North,refunded,151.97
+101872,1345,2024-08-08,Toys,43.14,1,0.0,North,refunded,43.14
+101873,1190,2024-12-10,Home & Kitchen,100.05,2,0.0,North,completed,200.1
+101874,1248,29-May-2024,Toys,46.23,2,0.0,South,refunded,92.46
+101875,1241,14-Feb-2024,Electronics,84.62,1,20.0,West,cancelled,67.7
+101876,1277,26-Mar-2024,Books,57.73,3,0.0,West,completed,173.19
+101877,1098,11/23/2024,Home & Kitchen,110.78,2,15.0,North,completed,188.33
+101878,1071,09/22/2024,Sports,155.03,3,0.0,West,refunded,465.09
+101879,1017,2024-02-06,Electronics,13.83,4,10.0,East,completed,49.79
+101880,1345,2024-05-20,Electronics,49.19,1,0.0,East,cancelled,49.19
+101881,1089,06-Apr-2024,Books,57.3,4,0.0,West,completed,229.2
+101882,1230,03/06/2024,Books,66.42,2,10.0,South,completed,119.56
+101883,1181,11/05/2024,Home & Kitchen,64.57,2,10.0,South,completed,116.23
+101884,1064,08/14/2024,Electronics,38.22,3,20.0,East,cancelled,91.73
+101885,1165,2024-03-06,Toys,156.46,4,15.0,East,refunded,531.96
+101886,1033,26-Aug-2024,Books,65.64,4,5.0,East,completed,249.43
+101887,1070,31-May-2024,Home & Kitchen,89.3,1,0.0,North,completed,89.3
+101888,1055,23-Jan-2024,Sports,90.52,3,0.0,West,completed,271.56
+101889,1329,06/13/2024,Home & Kitchen,34.05,2,20.0,South,cancelled,54.48
+101890,1226,08-Mar-2024,Toys,61.66,2,10.0,West,refunded,110.99
+101891,1370,03/30/2024,Apparel,100.05,5,20.0,South,cancelled,400.2
+101892,1174,11/17/2024,Electronics,130.39,1,5.0,North,cancelled,123.87
+101893,1080,2024-09-16,Home & Kitchen,62.26,3,5.0,West,refunded,177.44
+101894,1243,19-Feb-2024,Sports,37.19,3,15.0,East,completed,
+101895,1371,2024-11-07,TOYS,55.07,2,15.0,North,completed,93.62
+101896,1213,29-Jul-2024,Electronics,61.04,4,0.0,North,refunded,244.16
+101897,1007,11/16/2024,Books,59.98,3,5.0,North,refunded,170.94
+101898,1121,2024-09-30,Sports,47.51,4,0.0,North,completed,190.04
+101899,1369,05/04/2024,Books,35.24,2,15.0,West,completed,59.91
+101900,1207,2024-07-14,Books,41.96,5,0.0,North,cancelled,209.8
+101901,1380,07/13/2024,Electronics,55.29,4,15.0,North,cancelled,187.99
+101902,1203,2024-09-20,Electronics,99.31,2,20.0,West,completed,158.9
+101903,1004,31-Mar-2024,Toys,116.1,5,0.0,West,completed,580.5
+101904,1349,05/01/2024,Home & Kitchen,76.14,5,10.0,North,completed,342.63
+101905,1305,03/30/2024,Electronics,42.54,3,0.0,East,cancelled,127.62
+101906,1286,18-Apr-2024,Apparel,56.76,1,0.0,East,completed,56.76
+101907,1388,02/29/2024,Books,24.53,3,0.0,East,completed,73.59
+101908,1078,01/14/2024,Toys,131.51,4,5.0,South,completed,499.74
+101909,1362,2024-12-10,Sports,52.7,2,20.0,West,completed,84.32
+101910,1093,01/28/2024,Home & Kitchen,85.98,1,5.0,West,refunded,81.68
+101911,1388,21-Nov-2024,Apparel,112.49,3,0.0,East,cancelled,337.47
+101912,1076,02-Jan-2024,TOYS,147.69,5,0.0,West,cancelled,738.45
+101913,1220,10/11/2024,Electronics,104.17,2,20.0,North,completed,166.67
+101914,1315,2024-04-30,Sports,59.81,3,0.0,East,completed,179.43
+101915,1031,08-Jul-2024,Electronics,91.13,1,5.0,West,cancelled,86.57
+101916,1026,2024-04-13,Home & Kitchen,145.24,4,0.0,East,completed,580.96
+101917,1339,2024-06-28,Home & Kitchen,52.47,5,0.0,West,cancelled,262.35
+101918,1024,14-Jun-2024,Toys,34.36,4,5.0,South,completed,130.57
+101919,1245,12-Jul-2024,Books,47.69,3,20.0,West,completed,114.46
+101920,1375,23-May-2024,Electronics,88.43,1,0.0,West,completed,88.43
+101921,1245,07/15/2024,TOYS,60.52,3,5.0,East,completed,172.48
+101922,1192,29-Oct-2024,Sports,69.5,5,20.0,East,completed,278.0
+101923,1166,08-Jun-2024,Books,95.06,1,0.0,East,completed,95.06
+101924,1255,2024-05-12,Books,47.19,2,0.0,South,completed,94.38
+101925,1228,18-Feb-2024,Electronics,67.95,5,0.0,East,cancelled,339.75
+101926,1200,11-May-2024,Toys,56.3,3,20.0,West,completed,135.12
+101927,1061,2024-02-15,Sports,142.62,1,0.0,North,cancelled,142.62
+101928,1265,07-Mar-2024,Electronics,102.72,1,0.0,North,completed,
+101929,1295,12/14/2024,Home & Kitchen,60.71,3,0.0,South,completed,182.13
+101930,1283,02-Feb-2024,Books,59.15,3,10.0,South,completed,159.7
+101931,1030,06/25/2024,Sports,149.88,5,0.0,East,refunded,749.4
+101932,1281,2024-11-01,Apparel,144.36,5,10.0,South,completed,649.62
+101933,1291,2024-12-14,Home & Kitchen,88.17,3,10.0,East,completed,238.06
+101934,1073,02/23/2024,Books,70.97,3,0.0,North,cancelled,212.91
+101935,1339,29-Feb-2024,Home & Kitchen,38.57,5,0.0,South,refunded,192.85
+101936,1209,16-May-2024,Electronics,47.89,4,0.0,East,completed,191.56
+101937,1188,2024-07-21,Sports,37.13,2,0.0,South,cancelled,74.26
+101938,1289,17-Dec-2024,Books,114.49,4,5.0,East,refunded,435.06
+101939,1203,03/17/2024,HOME & KITCHEN,38.87,4,0.0,East,cancelled,155.48
+101940,1217,03/01/2024,Home & Kitchen,58.8,2,0.0,South,refunded,117.6
+101941,1124,2024-04-02,Apparel,27.02,5,0.0,South,completed,135.1
+101942,1371,11/16/2024,Home & Kitchen,32.65,2,5.0,West,completed,62.04
+101943,1387,01/11/2024,Sports,97.0,3,20.0,West,completed,232.8
+101944,1052,19-May-2024,Home & Kitchen,82.17,3,10.0,North,refunded,221.86
+101945,1293,02/13/2024,Electronics,72.13,4,0.0,East,completed,288.52
+101946,1009,02/27/2024,Home & Kitchen,59.3,5,5.0,South,refunded,281.68
+101947,1147,12/01/2024,Books,30.54,2,0.0,North,completed,61.08
+101948,1387,01/01/2024,Books,55.65,2,0.0,East,completed,111.3
+101949,1069,04/27/2024,Sports,66.08,4,10.0,North,completed,237.89
+101950,1150,2024-12-01,APPAREL,94.07,5,0.0,South,completed,470.35
+101951,1087,10-Aug-2024,Toys,111.68,5,20.0,East,cancelled,446.72
+101952,1291,2024-01-27,Home & Kitchen,98.35,4,5.0,West,completed,373.73
+101953,1185,19-Jun-2024,Sports,81.95,4,15.0,South,completed,278.63
+101954,1237,21-Dec-2024,Toys,71.63,4,0.0,West,completed,286.52
+101955,1377,26-May-2024,Toys,78.33,5,15.0,West,completed,
+101956,1208,2024-07-12,Home & Kitchen,53.92,1,0.0,South,cancelled,53.92
+101957,1293,2024-07-13,Toys,74.43,3,20.0,North,refunded,178.63
+101958,1039,2024-08-29,Sports,65.91,1,5.0,East,completed,62.61
+101959,1086,03/09/2024,Books,176.84,3,10.0,North,completed,477.47
+101960,1378,03-Nov-2024,Home & Kitchen,79.23,2,0.0,West,completed,158.46
+101961,1343,27-Dec-2024,Sports,23.46,2,20.0,South,completed,37.54
+101962,1262,22-Feb-2024,Toys,57.84,5,0.0,West,refunded,289.2
+101963,1151,26-Oct-2024,Home & Kitchen,62.61,4,0.0,East,cancelled,250.44
+101964,1079,2024-10-25,Toys,104.26,3,5.0,South,completed,297.14
+101965,1340,28-Sep-2024,Electronics,83.76,5,15.0,West,completed,
+101966,1314,2024-05-15,Toys,81.88,1,20.0,West,completed,65.5
+101967,1096,20-Jun-2024,Sports,125.06,4,15.0,West,completed,425.2
+101968,1235,03-Nov-2024,Home & Kitchen,144.66,1,5.0,North,completed,137.43
+101969,1247,25-Feb-2024,Electronics,96.93,2,20.0,South,completed,155.09
+101970,1190,10/30/2024,Toys,59.91,1,5.0,West,completed,56.91
+101971,1370,12/02/2024,Home & Kitchen,60.75,3,5.0,West,completed,173.14
+101972,1049,09/06/2024,Apparel,10.27,4,0.0,South,completed,41.08
+101973,1103,05/04/2024,Electronics,117.91,4,15.0,North,completed,400.89
+101974,1038,07/23/2024,Books,60.66,3,0.0,South,completed,181.98
+101975,1277,01/19/2024,Sports,69.43,5,0.0,East,completed,347.15
+101976,1257,2024-12-07,Books,57.27,2,0.0,East,completed,114.54
+101977,1394,05/05/2024,Electronics,42.18,1,10.0,West,completed,37.96
+101978,1216,21-Jan-2024,Home & Kitchen,170.53,1,0.0,North,completed,170.53
+101979,1060,17-Oct-2024,Sports,69.65,1,0.0,South,cancelled,69.65
+101980,1180,2024-08-28,Sports,133.02,3,0.0,South,cancelled,399.06
+101981,1035,2024-08-15,Toys,61.04,3,10.0,West,completed,164.81
+101982,1268,01/20/2024,Books,52.68,5,10.0,North,completed,237.06
+101983,1269,01-Oct-2024,Toys,93.29,1,10.0,North,completed,83.96
+101984,1343,2024-08-21,Electronics,111.46,2,0.0,South,refunded,222.92
+101985,1135,2024-10-17,Home & Kitchen,114.66,5,,North,completed,573.3
+101986,1124,2024-10-29,Books,65.68,1,10.0,East,refunded,59.11
+101987,1028,2024-03-18,Sports,97.62,3,0.0,East,cancelled,292.86
+101988,1166,2024-03-18,Books,55.39,1,0.0,East,completed,55.39
+101989,1190,04-Dec-2024,Sports,74.0,3,0.0,West,completed,222.0
+101990,1301,13-Jul-2024,Electronics,62.78,5,10.0,South,completed,282.51
+101991,1301,06/09/2024,Apparel,58.44,2,10.0,South,cancelled,105.19
+101992,1056,2024-04-15,Toys,75.4,2,0.0,South,completed,150.8
+101993,1114,21-Aug-2024,Sports,41.64,3,10.0,West,completed,112.43
+101994,1204,2024-10-02,Electronics,107.41,4,0.0,East,refunded,429.64
+101995,1134,2024-01-01,Home & Kitchen,58.55,5,15.0,North,cancelled,
+101996,1010,2024-07-21,Books,105.15,1,5.0,East,completed,99.89
+101997,1338,12/29/2024,Books,45.91,3,0.0,East,completed,137.73
+101998,1292,12-Apr-2024,Toys,58.46,4,0.0,North,cancelled,233.84
+101999,1208,04/12/2024,Electronics,41.57,1,15.0,East,completed,35.33
+100674,1372,08/15/2024,Toys,36.36,4,0.0,South,completed,145.44
+101699,1303,12/17/2024,Apparel,62.57,1,15.0,East,completed,53.18
+101282,1387,23-May-2024,Toys,60.81,4,0.0,East,completed,243.24
+101315,1338,19-Apr-2024,Sports,44.84,5,15.0,North,completed,190.57
+101210,1384,08/16/2024,Electronics,88.49,3,10.0,West,completed,238.92
+101636,1216,03/01/2024,Home & Kitchen,14.94,4,5.0,West,refunded,56.77
+100613,1238,05/20/2024,Sports,128.5,1,0.0,West,cancelled,128.5
+100447,1258,15-Dec-2024,Home & Kitchen,133.71,3,10.0,West,completed,361.02
+101131,1184,09/02/2024,Apparel,56.92,2,0.0,West,refunded,113.84
+100808,1316,23-May-2024,Apparel,82.55,2,15.0,East,completed,140.33
+101496,1041,2024-07-20,Toys,90.38,4,10.0,South,completed,325.37
+101468,1209,11-Oct-2024,Sports,52.77,5,0.0,South,completed,263.85
+101682,1086,13-Jan-2024,Apparel,67.46,5,0.0,South,refunded,337.3
+101149,1043,07-Nov-2024,Sports,42.33,2,20.0,West,completed,67.73
+100442,1003,18-Feb-2024,Toys,83.9,4,20.0,North,completed,
+101813,1177,06/30/2024,Books,119.79,5,15.0,East,completed,509.11
+100654,1340,2024-07-21,Electronics,43.25,2,10.0,West,completed,77.85
+101264,1210,03/28/2024,Toys,43.78,2,0.0,South,completed,87.56
+100858,1289,09/01/2024,Home & Kitchen,41.57,2,0.0,South,completed,83.14
+101482,1318,2024-04-16,Home & Kitchen,61.09,2,0.0,East,completed,122.18
+100231,1027,2024-11-09,BOOKS,47.25,3,0.0,East,completed,141.75
+101821,1004,2024-10-06,Toys,56.87,5,20.0,West,cancelled,227.48
+101926,1200,05/11/2024,Toys,56.3,3,20.0,West,completed,135.12
+100881,1094,2024-11-07,Books,79.31,4,0.0,South,refunded,317.24
+100631,1272,29-Apr-2024,Home & Kitchen,58.75,2,5.0,East,completed,111.62
+100375,1396,2024-02-04,Sports,155.4,3,10.0,North,completed,419.58
+101960,1378,03-Nov-2024,Home & Kitchen,79.23,2,0.0,West,completed,158.46
+100367,1070,25-Apr-2024,Electronics,70.14,5,0.0,West,cancelled,350.7
+100558,1012,10/17/2024,Toys,68.99,5,0.0,West,refunded,344.95
+100275,1169,06/25/2024,Toys,21.07,5,0.0,North,refunded,105.35
